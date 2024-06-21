@@ -48,7 +48,7 @@ menu:
       url: tags
       weight: 15
     - identifier: archives
-      name: ⏱️ 时间轴
+      name: ⏱️ 归档
       url: archives/
       weight: 20
     - identifier: about

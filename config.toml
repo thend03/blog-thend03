@@ -46,7 +46,7 @@ weight = 15
 
 [[menu.main]]
 identifier = "archives"
-name = "⏱️ 时间轴"
+name = "⏱️ 归档"
 url = "archives/"
 weight = 20
 
