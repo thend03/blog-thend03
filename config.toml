@@ -154,7 +154,7 @@ name = "RSS"
 url = "index.xml"
 
 [params.label]
-text = "Sulv's Blog"
+text = "fayy&fc"
 icon = "img/Q.gif"
 iconHeight = 35
 
