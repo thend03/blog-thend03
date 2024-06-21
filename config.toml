@@ -1,0 +1,225 @@
+baseURL = "https://blog1.thend03.com"
+languageCode = "zh"
+title = "Sulv's Blog"
+theme = "hugo-PaperMod"
+enableInlineShortcodes = true
+enableEmoji = true
+enableRobotsTXT = true
+hasCJKLanguage = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+paginate = 15
+summaryLength = 140
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = false
+
+[minify]
+disableXML = true
+
+[permalinks]
+post = "/:title/"
+
+[[menu.main]]
+identifier = "search"
+name = "🔍 搜索"
+url = "search"
+weight = 1
+
+[[menu.main]]
+identifier = "home"
+name = "🏠 主页"
+url = "/"
+weight = 2
+
+[[menu.main]]
+identifier = "posts"
+name = "📚 文章"
+url = "posts"
+weight = 3
+
+[[menu.main]]
+identifier = "tags"
+name = "🧩 标签"
+url = "tags"
+weight = 15
+
+[[menu.main]]
+identifier = "archives"
+name = "⏱️ 时间轴"
+url = "archives/"
+weight = 20
+
+[[menu.main]]
+identifier = "about"
+name = "🙋🏻‍♂️ 关于"
+url = "about"
+weight = 50
+
+[[menu.main]]
+identifier = "links"
+name = "🤝 友链"
+url = "links"
+weight = 60
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+env = "production"
+description = ""
+author = "Sulv"
+defaultTheme = "auto"
+disableThemeToggle = false
+DateFormat = "2006-01-02"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+hideFooter = false
+ShowWordCounts = true
+VisitCount = true
+ShowLastMod = true
+ShowToc = true
+TocOpen = true
+extendCodeBackground = false
+comments = true
+StartYear = 2_020
+FilingNo = "填写自己的备案号"
+PublicSecurityIconLink = "填自己的公安图标链接"
+PublicNetworkSecurity = "填自己的公网安备"
+Reward = true
+WechatPay = "img/wechat_pay.png"
+Alipay = "img/alipay.png"
+
+[params.profileMode]
+enabled = true
+title = "(〃'▽'〃)"
+imageUrl = "img/Q.gif"
+imageWidth = 150
+imageHeight = 150
+
+[[params.profileMode.buttons]]
+name = "🧱 建站"
+url = "posts/blog"
+
+[[params.profileMode.buttons]]
+name = "👨🏻‍💻 技术"
+url = "posts/tech"
+
+[[params.profileMode.buttons]]
+name = "📕 阅读"
+url = "posts/read"
+
+[[params.profileMode.buttons]]
+name = "🏖 生活"
+url = "posts/life"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/xyming108"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "img/twitter.png"
+
+[[params.socialIcons]]
+name = "facebook"
+url = "https://www.facebook.com/profile.php?id=100027782410997"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "img/instagram.png"
+
+[[params.socialIcons]]
+name = "QQ"
+url = "img/qq.png"
+
+[[params.socialIcons]]
+name = "WeChat"
+url = "img/wechat.png"
+
+[[params.socialIcons]]
+name = "bilibili"
+url = "https://space.bilibili.com/234461224"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:1931559710@qq.com"
+
+[[params.socialIcons]]
+name = "RSS"
+url = "index.xml"
+
+[params.label]
+text = "Sulv's Blog"
+icon = "img/Q.gif"
+iconHeight = 35
+
+[params.analytics.google]
+SiteVerificationTag = ""
+
+[params.assets]
+favicon = "img/Q.gif"
+favicon16x16 = "img/Q.gif"
+favicon32x32 = "img/Q.gif"
+apple_touch_icon = "img/Q.gif"
+safari_pinned_tab = "img/Q.gif"
+disableFingerprinting = true
+
+[params.cover]
+hidden = false
+hiddenInList = false
+hiddenInSingle = false
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1_000
+threshold = 0.4
+minMatchCharLength = 0
+keys = [ "title", "permalink", "summary" ]
+
+[params.twikoo]
+version = "1.5.8"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+codeFences = true
+guessSyntax = true
+noClasses = true
+tabWidth = 4
+style = "monokai"
+
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.twitter]
+disableInlineCSS = true
