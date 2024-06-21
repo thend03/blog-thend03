@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2023 on fayy&amp;fc</title>
+    <link>https://blog1.thend03.com/tags/2023/</link>
+    <description>Recent content in 2023 on fayy&amp;fc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 03 Jul 2023 21:07:49 +0800</lastBuildDate><atom:link href="https://blog1.thend03.com/tags/2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023年上半年</title>
+      <link>https://blog1.thend03.com/posts/half-of-2023/</link>
+      <pubDate>Mon, 03 Jul 2023 21:07:49 +0800</pubDate>
+      
+      <guid>https://blog1.thend03.com/posts/half-of-2023/</guid>
+      <description>2023年中总结</description>
+    </item>
+    
+  </channel>
+</rss>
