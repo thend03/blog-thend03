@@ -162,11 +162,11 @@ iconHeight = 35
 SiteVerificationTag = ""
 
 [params.assets]
-favicon = "img/Q.gif"
-favicon16x16 = "img/Q.gif"
-favicon32x32 = "img/Q.gif"
-apple_touch_icon = "img/Q.gif"
-safari_pinned_tab = "img/Q.gif"
+favicon = "img/333.jpg"
+favicon16x16 = "img/333.jpg"
+favicon32x32 = "img/333.jpg"
+apple_touch_icon = "img/333.jpg"
+safari_pinned_tab = "img/333.jpg"
 disableFingerprinting = true
 
 [params.cover]
