@@ -1,4 +1,4 @@
-baseURL = "https://blog1.thend03.com"
+baseURL = "https://blog.thend03.com"
 languageCode = "zh"
 title = "fayy&fc"
 theme = "hugo-PaperMod"
@@ -39,16 +39,16 @@ weight = 2
 #weight = 3
 
 [[menu.main]]
-identifier = "tags"
-name = "🧩 标签"
-url = "tags"
-weight = 15
-
-[[menu.main]]
 identifier = "archives"
 name = "⏱️ 归档"
 url = "archives/"
 weight = 20
+
+[[menu.main]]
+identifier = "tags"
+name = "🧩 标签"
+url = "tags"
+weight = 15
 
 [[menu.main]]
 identifier = "about"
