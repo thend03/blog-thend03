@@ -1,6 +1,6 @@
 baseURL = "https://blog.thend03.com"
 languageCode = "zh"
-title = "fayy&fc"
+title = "Fayy&Fc's Blog"
 theme = "hugo-PaperMod"
 enableInlineShortcodes = true
 enableEmoji = true
@@ -42,13 +42,13 @@ weight = 2
 identifier = "archives"
 name = "⏱️ 归档"
 url = "archives/"
-weight = 20
+weight = 15
 
 [[menu.main]]
 identifier = "tags"
 name = "🧩 标签"
 url = "tags"
-weight = 15
+weight = 20
 
 [[menu.main]]
 identifier = "about"
