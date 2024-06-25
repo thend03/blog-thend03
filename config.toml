@@ -32,11 +32,11 @@ name = "🏠 主页"
 url = "/"
 weight = 2
 
-[[menu.main]]
-identifier = "posts"
-name = "📚 文章"
-url = "posts"
-weight = 3
+#[[menu.main]]
+#identifier = "posts"
+#name = "📚 文章"
+#url = "posts"
+#weight = 3
 
 [[menu.main]]
 identifier = "tags"
@@ -68,7 +68,7 @@ home = [ "HTML", "RSS", "JSON" ]
 [params]
 env = "production"
 description = ""
-author = "Sulv"
+author = "since"
 defaultTheme = "auto"
 disableThemeToggle = false
 DateFormat = "2006-01-02"
@@ -87,9 +87,12 @@ TocOpen = true
 extendCodeBackground = false
 comments = true
 StartYear = 2_020
-FilingNo = "填写自己的备案号"
-PublicSecurityIconLink = "填自己的公安图标链接"
-PublicNetworkSecurity = "填自己的公网安备"
+#备案号
+FilingNo = ""
+#公安图标链接
+PublicSecurityIconLink = ""
+#公网安备
+PublicNetworkSecurity = ""
 Reward = true
 WechatPay = "img/wechat_pay.png"
 Alipay = "img/alipay.png"
@@ -97,41 +100,42 @@ Alipay = "img/alipay.png"
 [params.profileMode]
 enabled = true
 title = "(〃'▽'〃)"
-imageUrl = "img/Q.gif"
+imageUrl = "img/logo.jpg"
 imageWidth = 150
 imageHeight = 150
 
-[[params.profileMode.buttons]]
-name = "🧱 建站"
-url = "posts/blog"
-
-[[params.profileMode.buttons]]
-name = "👨🏻‍💻 技术"
-url = "posts/tech"
-
-[[params.profileMode.buttons]]
-name = "📕 阅读"
-url = "posts/read"
-
-[[params.profileMode.buttons]]
-name = "🏖 生活"
-url = "posts/life"
+#首页的分类
+#[[params.profileMode.buttons]]
+#name = "🧱 博客"
+#url = "posts/blog"
+#
+#[[params.profileMode.buttons]]
+#name = "👨🏻‍💻 技术"
+#url = "posts/tech"
+#
+#[[params.profileMode.buttons]]
+#name = "📕 阅读"
+#url = "posts/read"
+#
+#[[params.profileMode.buttons]]
+#name = "🏖 生活"
+#url = "posts/life"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/xyming108"
+url = "https://github.com/thend03"
 
 [[params.socialIcons]]
 name = "twitter"
 url = "img/twitter.png"
 
-[[params.socialIcons]]
-name = "facebook"
-url = "https://www.facebook.com/profile.php?id=100027782410997"
+#[[params.socialIcons]]
+#name = "facebook"
+#url = ""
 
-[[params.socialIcons]]
-name = "instagram"
-url = "img/instagram.png"
+#[[params.socialIcons]]
+#name = "instagram"
+#url = "img/instagram.png"
 
 [[params.socialIcons]]
 name = "QQ"
@@ -143,11 +147,11 @@ url = "img/wechat.png"
 
 [[params.socialIcons]]
 name = "bilibili"
-url = "https://space.bilibili.com/234461224"
+url = "img/bilibili.png"
 
 [[params.socialIcons]]
 name = "email"
-url = "mailto:1931559710@qq.com"
+url = "mailto:whenevertobefc@outlook.com"
 
 [[params.socialIcons]]
 name = "RSS"
@@ -155,18 +159,18 @@ url = "index.xml"
 
 [params.label]
 text = "fayy&fc"
-icon = "img/Q.gif"
+icon = "img/logo.jpg"
 iconHeight = 35
 
 [params.analytics.google]
 SiteVerificationTag = ""
 
 [params.assets]
-favicon = "img/333.jpg"
-favicon16x16 = "img/333.jpg"
-favicon32x32 = "img/333.jpg"
-apple_touch_icon = "img/333.jpg"
-safari_pinned_tab = "img/333.jpg"
+favicon = "img/logo.jpg"
+favicon16x16 = "img/logo.jpg"
+favicon32x32 = "img/logo.jpg"
+apple_touch_icon = "img/logo.jpg"
+safari_pinned_tab = "img/logo.jpg"
 disableFingerprinting = true
 
 [params.cover]
