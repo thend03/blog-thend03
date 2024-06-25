@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Linux on fayy&amp;fc</title>
-    <link>https://blog1.thend03.com/categories/linux/</link>
+    <link>https://blog.thend03.com/categories/linux/</link>
     <description>Recent content in Linux on fayy&amp;fc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 06 Feb 2024 13:07:38 +0800</lastBuildDate><atom:link href="https://blog1.thend03.com/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Feb 2024 13:07:38 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>笔记本安装manjaro&#43;windows双系统</title>
-      <link>https://blog1.thend03.com/posts/dual-system-installation-manjaro-and-windows/</link>
+      <link>https://blog.thend03.com/posts/dual-system-installation-manjaro-and-windows/</link>
       <pubDate>Tue, 06 Feb 2024 13:07:38 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/dual-system-installation-manjaro-and-windows/</guid>
+      <guid>https://blog.thend03.com/posts/dual-system-installation-manjaro-and-windows/</guid>
       <description>如何在笔记本电脑上安装双系统</description>
     </item>
     

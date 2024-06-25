@@ -2,305 +2,305 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>📚文章 on fayy&amp;fc</title>
-    <link>https://blog1.thend03.com/posts/</link>
+    <link>https://blog.thend03.com/posts/</link>
     <description>Recent content in 📚文章 on fayy&amp;fc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 17 Jun 2024 14:25:22 +0800</lastBuildDate><atom:link href="https://blog1.thend03.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jun 2024 14:25:22 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024二季度总结</title>
-      <link>https://blog1.thend03.com/posts/2024-q2-summary/</link>
+      <link>https://blog.thend03.com/posts/2024-q2-summary/</link>
       <pubDate>Mon, 17 Jun 2024 14:25:22 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/2024-q2-summary/</guid>
+      <guid>https://blog.thend03.com/posts/2024-q2-summary/</guid>
       <description>2024二季度总结</description>
     </item>
     
     <item>
       <title>澳门见闻</title>
-      <link>https://blog1.thend03.com/posts/city-walk-at-macau/</link>
+      <link>https://blog.thend03.com/posts/city-walk-at-macau/</link>
       <pubDate>Thu, 06 Jun 2024 20:15:17 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/city-walk-at-macau/</guid>
+      <guid>https://blog.thend03.com/posts/city-walk-at-macau/</guid>
       <description>在澳门走一走</description>
     </item>
     
     <item>
       <title>2024年一季度总结</title>
-      <link>https://blog1.thend03.com/posts/2024-q1-summary/</link>
+      <link>https://blog.thend03.com/posts/2024-q1-summary/</link>
       <pubDate>Tue, 16 Apr 2024 15:02:42 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/2024-q1-summary/</guid>
+      <guid>https://blog.thend03.com/posts/2024-q1-summary/</guid>
       <description>2024年一季度总结</description>
     </item>
     
     <item>
       <title>manjaro环境配置</title>
-      <link>https://blog1.thend03.com/posts/manjaro-env-config/</link>
+      <link>https://blog.thend03.com/posts/manjaro-env-config/</link>
       <pubDate>Tue, 06 Feb 2024 15:36:27 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/manjaro-env-config/</guid>
+      <guid>https://blog.thend03.com/posts/manjaro-env-config/</guid>
       <description>manjaro环境配置</description>
     </item>
     
     <item>
       <title>笔记本安装manjaro&#43;windows双系统</title>
-      <link>https://blog1.thend03.com/posts/dual-system-installation-manjaro-and-windows/</link>
+      <link>https://blog.thend03.com/posts/dual-system-installation-manjaro-and-windows/</link>
       <pubDate>Tue, 06 Feb 2024 13:07:38 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/dual-system-installation-manjaro-and-windows/</guid>
+      <guid>https://blog.thend03.com/posts/dual-system-installation-manjaro-and-windows/</guid>
       <description>如何在笔记本电脑上安装双系统</description>
     </item>
     
     <item>
       <title>使用sentry监控apitable</title>
-      <link>https://blog1.thend03.com/posts/use-sentry-to-monitor-apitable/</link>
+      <link>https://blog.thend03.com/posts/use-sentry-to-monitor-apitable/</link>
       <pubDate>Fri, 19 Jan 2024 14:37:22 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/use-sentry-to-monitor-apitable/</guid>
+      <guid>https://blog.thend03.com/posts/use-sentry-to-monitor-apitable/</guid>
       <description>使用sentry监控apitable</description>
     </item>
     
     <item>
       <title>使用netty-client建立websocket连接</title>
-      <link>https://blog1.thend03.com/posts/connect-websocket-by-netty-client/</link>
+      <link>https://blog.thend03.com/posts/connect-websocket-by-netty-client/</link>
       <pubDate>Fri, 19 Jan 2024 13:09:59 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/connect-websocket-by-netty-client/</guid>
+      <guid>https://blog.thend03.com/posts/connect-websocket-by-netty-client/</guid>
       <description>使用netty-client建立websocket连接</description>
     </item>
     
     <item>
       <title>apitable从docker compose到k8s deployment的转变</title>
-      <link>https://blog1.thend03.com/posts/apitable-from-docker-compose-to-k8s-deployment/</link>
+      <link>https://blog.thend03.com/posts/apitable-from-docker-compose-to-k8s-deployment/</link>
       <pubDate>Fri, 19 Jan 2024 10:37:12 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/apitable-from-docker-compose-to-k8s-deployment/</guid>
+      <guid>https://blog.thend03.com/posts/apitable-from-docker-compose-to-k8s-deployment/</guid>
       <description>实在docker-compose到k8s deployment的转变</description>
     </item>
     
     <item>
       <title>nginx替换占位符</title>
-      <link>https://blog1.thend03.com/posts/nginx-replace-placeholder/</link>
+      <link>https://blog.thend03.com/posts/nginx-replace-placeholder/</link>
       <pubDate>Thu, 18 Jan 2024 09:09:37 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/nginx-replace-placeholder/</guid>
+      <guid>https://blog.thend03.com/posts/nginx-replace-placeholder/</guid>
       <description>nginx配置文件使用占位符,读取环境变量替换占位符</description>
     </item>
     
     <item>
       <title>2023年下半年总结</title>
-      <link>https://blog1.thend03.com/posts/second-half-of-2023/</link>
+      <link>https://blog.thend03.com/posts/second-half-of-2023/</link>
       <pubDate>Fri, 05 Jan 2024 08:29:41 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/second-half-of-2023/</guid>
+      <guid>https://blog.thend03.com/posts/second-half-of-2023/</guid>
       <description>2023下半年总结</description>
     </item>
     
     <item>
       <title>Ubuntu22.04安装wordpress</title>
-      <link>https://blog1.thend03.com/posts/install-wordpress-on-ubuntu22.04/</link>
+      <link>https://blog.thend03.com/posts/install-wordpress-on-ubuntu22.04/</link>
       <pubDate>Tue, 12 Dec 2023 08:43:49 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/install-wordpress-on-ubuntu22.04/</guid>
+      <guid>https://blog.thend03.com/posts/install-wordpress-on-ubuntu22.04/</guid>
       <description>如何在ubuntu22.04上安装wordpress</description>
     </item>
     
     <item>
       <title>goal-setting and reflection</title>
-      <link>https://blog1.thend03.com/posts/goal-setting-and-self-reflection/</link>
+      <link>https://blog.thend03.com/posts/goal-setting-and-self-reflection/</link>
       <pubDate>Tue, 14 Nov 2023 08:05:41 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/goal-setting-and-self-reflection/</guid>
+      <guid>https://blog.thend03.com/posts/goal-setting-and-self-reflection/</guid>
       <description>自我反思，目标制定，积极向上</description>
     </item>
     
     <item>
       <title>变来变去的价格</title>
-      <link>https://blog1.thend03.com/posts/price-go-and-down/</link>
+      <link>https://blog.thend03.com/posts/price-go-and-down/</link>
       <pubDate>Wed, 01 Nov 2023 21:55:30 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/price-go-and-down/</guid>
+      <guid>https://blog.thend03.com/posts/price-go-and-down/</guid>
       <description>双十一的购物体验相当的魔幻</description>
     </item>
     
     <item>
       <title>ssh配置</title>
-      <link>https://blog1.thend03.com/posts/ssh-config/</link>
+      <link>https://blog.thend03.com/posts/ssh-config/</link>
       <pubDate>Thu, 19 Oct 2023 14:40:56 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/ssh-config/</guid>
+      <guid>https://blog.thend03.com/posts/ssh-config/</guid>
       <description>ssh配置</description>
     </item>
     
     <item>
       <title>两京十五日</title>
-      <link>https://blog1.thend03.com/posts/fifteen-days-in-beijing-and-nanjing/</link>
+      <link>https://blog.thend03.com/posts/fifteen-days-in-beijing-and-nanjing/</link>
       <pubDate>Tue, 17 Oct 2023 21:05:26 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/fifteen-days-in-beijing-and-nanjing/</guid>
+      <guid>https://blog.thend03.com/posts/fifteen-days-in-beijing-and-nanjing/</guid>
       <description>两京十五日</description>
     </item>
     
     <item>
       <title>川渝游记</title>
-      <link>https://blog1.thend03.com/posts/sichuan-chongqing-travel-notes/</link>
+      <link>https://blog.thend03.com/posts/sichuan-chongqing-travel-notes/</link>
       <pubDate>Sun, 08 Oct 2023 10:46:38 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/sichuan-chongqing-travel-notes/</guid>
+      <guid>https://blog.thend03.com/posts/sichuan-chongqing-travel-notes/</guid>
       <description>在川渝地区逛吃逛吃开启咸鱼人生</description>
     </item>
     
     <item>
       <title>损失惨重的周末</title>
-      <link>https://blog1.thend03.com/posts/disastrous-weekend/</link>
+      <link>https://blog.thend03.com/posts/disastrous-weekend/</link>
       <pubDate>Tue, 26 Sep 2023 10:42:17 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/disastrous-weekend/</guid>
+      <guid>https://blog.thend03.com/posts/disastrous-weekend/</guid>
       <description>这个周末损失太多太多了</description>
     </item>
     
     <item>
       <title>买车日记</title>
-      <link>https://blog1.thend03.com/posts/buy-a-xp-car/</link>
+      <link>https://blog.thend03.com/posts/buy-a-xp-car/</link>
       <pubDate>Mon, 18 Sep 2023 09:11:26 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/buy-a-xp-car/</guid>
+      <guid>https://blog.thend03.com/posts/buy-a-xp-car/</guid>
       <description>买车全流程操作体验</description>
     </item>
     
     <item>
       <title>heap-oom</title>
-      <link>https://blog1.thend03.com/posts/heap-oom/</link>
+      <link>https://blog.thend03.com/posts/heap-oom/</link>
       <pubDate>Thu, 14 Sep 2023 14:59:12 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/heap-oom/</guid>
+      <guid>https://blog.thend03.com/posts/heap-oom/</guid>
       <description>heap oom</description>
     </item>
     
     <item>
       <title>metaspace-oom</title>
-      <link>https://blog1.thend03.com/posts/metaspace-oom/</link>
+      <link>https://blog.thend03.com/posts/metaspace-oom/</link>
       <pubDate>Thu, 07 Sep 2023 09:47:33 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/metaspace-oom/</guid>
+      <guid>https://blog.thend03.com/posts/metaspace-oom/</guid>
       <description>metaspace oom</description>
     </item>
     
     <item>
       <title>dubbo spi</title>
-      <link>https://blog1.thend03.com/posts/dubbo-spi/</link>
+      <link>https://blog.thend03.com/posts/dubbo-spi/</link>
       <pubDate>Wed, 12 Jul 2023 22:52:55 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/dubbo-spi/</guid>
+      <guid>https://blog.thend03.com/posts/dubbo-spi/</guid>
       <description>dubbo spi</description>
     </item>
     
     <item>
       <title>基于模板文件生成yml</title>
-      <link>https://blog1.thend03.com/posts/generate-yml-based-on-template/</link>
+      <link>https://blog.thend03.com/posts/generate-yml-based-on-template/</link>
       <pubDate>Tue, 11 Jul 2023 22:45:17 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/generate-yml-based-on-template/</guid>
+      <guid>https://blog.thend03.com/posts/generate-yml-based-on-template/</guid>
       <description>使用shell,基于配置文件模板生成yml文件</description>
     </item>
     
     <item>
       <title>我的博客之旅</title>
-      <link>https://blog1.thend03.com/posts/history-of-my-blog/</link>
+      <link>https://blog.thend03.com/posts/history-of-my-blog/</link>
       <pubDate>Mon, 10 Jul 2023 22:07:59 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/history-of-my-blog/</guid>
+      <guid>https://blog.thend03.com/posts/history-of-my-blog/</guid>
       <description>我的博客变迁之旅</description>
     </item>
     
     <item>
       <title>2023年上半年</title>
-      <link>https://blog1.thend03.com/posts/half-of-2023/</link>
+      <link>https://blog.thend03.com/posts/half-of-2023/</link>
       <pubDate>Mon, 03 Jul 2023 21:07:49 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/half-of-2023/</guid>
+      <guid>https://blog.thend03.com/posts/half-of-2023/</guid>
       <description>2023年中总结</description>
     </item>
     
     <item>
       <title>徒步武功山</title>
-      <link>https://blog1.thend03.com/posts/hiking-wugong-mountain/</link>
+      <link>https://blog.thend03.com/posts/hiking-wugong-mountain/</link>
       <pubDate>Sun, 25 Jun 2023 15:02:41 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/hiking-wugong-mountain/</guid>
+      <guid>https://blog.thend03.com/posts/hiking-wugong-mountain/</guid>
       <description>端午节和宝子徒步武功山</description>
     </item>
     
     <item>
       <title>idea中开发rust</title>
-      <link>https://blog1.thend03.com/posts/idea%E4%B8%AD%E5%BC%80%E5%8F%91rust/</link>
+      <link>https://blog.thend03.com/posts/idea%E4%B8%AD%E5%BC%80%E5%8F%91rust/</link>
       <pubDate>Tue, 20 Jun 2023 15:48:09 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/idea%E4%B8%AD%E5%BC%80%E5%8F%91rust/</guid>
+      <guid>https://blog.thend03.com/posts/idea%E4%B8%AD%E5%BC%80%E5%8F%91rust/</guid>
       <description>idea中开发rust</description>
     </item>
     
     <item>
       <title>折腾chatgpt</title>
-      <link>https://blog1.thend03.com/posts/search-chatgpt/</link>
+      <link>https://blog.thend03.com/posts/search-chatgpt/</link>
       <pubDate>Mon, 22 May 2023 20:38:15 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/search-chatgpt/</guid>
+      <guid>https://blog.thend03.com/posts/search-chatgpt/</guid>
       <description>如何折腾chatgpt</description>
     </item>
     
     <item>
       <title>clickhouse删除partition</title>
-      <link>https://blog1.thend03.com/posts/delete-clickhouse-partition/</link>
+      <link>https://blog.thend03.com/posts/delete-clickhouse-partition/</link>
       <pubDate>Mon, 22 May 2023 20:28:54 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/delete-clickhouse-partition/</guid>
+      <guid>https://blog.thend03.com/posts/delete-clickhouse-partition/</guid>
       <description>删除过期partition</description>
     </item>
     
     <item>
       <title>InvalidProviderToken</title>
-      <link>https://blog1.thend03.com/posts/apns-push-failed/</link>
+      <link>https://blog.thend03.com/posts/apns-push-failed/</link>
       <pubDate>Tue, 14 Mar 2023 19:26:34 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/apns-push-failed/</guid>
+      <guid>https://blog.thend03.com/posts/apns-push-failed/</guid>
       <description>推送失败</description>
     </item>
     
     <item>
       <title>狂飙</title>
-      <link>https://blog1.thend03.com/posts/%E7%8B%82%E9%A3%99/</link>
+      <link>https://blog.thend03.com/posts/%E7%8B%82%E9%A3%99/</link>
       <pubDate>Wed, 08 Feb 2023 17:30:57 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/%E7%8B%82%E9%A3%99/</guid>
+      <guid>https://blog.thend03.com/posts/%E7%8B%82%E9%A3%99/</guid>
       <description>扫黑反腐的电视剧近几年，比较出彩的当属17年的《人民的名义》，火到没边了，不过今年开年，《狂飙》​带领大家新年飙了起来。 人民的名义确实拍的挺好的，非常的伟光正，具体的剧情记不清楚了，对几个人物还有点印象。 侯亮平，男主，人生顺风顺水，正义的代表，一路高歌猛进，破获了贪腐，揪出了保护</description>
     </item>
     
     <item>
       <title>彩云之南</title>
-      <link>https://blog1.thend03.com/posts/%E5%BD%A9%E4%BA%91%E4%B9%8B%E5%8D%97/</link>
+      <link>https://blog.thend03.com/posts/%E5%BD%A9%E4%BA%91%E4%B9%8B%E5%8D%97/</link>
       <pubDate>Thu, 02 Feb 2023 22:00:57 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/%E5%BD%A9%E4%BA%91%E4%B9%8B%E5%8D%97/</guid>
+      <guid>https://blog.thend03.com/posts/%E5%BD%A9%E4%BA%91%E4%B9%8B%E5%8D%97/</guid>
       <description>22年没机会去远的地方，最远是国庆去了千岛湖和宏村西递。 趁着过年前有时间，在老婆有攻略且挺充分的情况下，一起来了场说走就走的旅行。 我这个人比较粗心，对事情没啥好的规划，做方案也粗枝大叶，做出来的方案可用的部分虽然有但不多，再次感谢能力强大的老婆，把行程规划的好好的。 整个旅程分为了</description>
     </item>
     
     <item>
       <title>2023年度规划</title>
-      <link>https://blog1.thend03.com/posts/2023%E5%B9%B4%E5%BA%A6%E8%A7%84%E5%88%92/</link>
+      <link>https://blog.thend03.com/posts/2023%E5%B9%B4%E5%BA%A6%E8%A7%84%E5%88%92/</link>
       <pubDate>Thu, 05 Jan 2023 22:01:57 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/2023%E5%B9%B4%E5%BA%A6%E8%A7%84%E5%88%92/</guid>
+      <guid>https://blog.thend03.com/posts/2023%E5%B9%B4%E5%BA%A6%E8%A7%84%E5%88%92/</guid>
       <description>2022已经结束，2023已经来了，今年过年来的早，现在2023年都过去了5天，元旦短暂出去远行了一下，先快乐了一下，虽然太湖边上四下无人，非常的空旷，不过人少有人少的好处，独享太湖的moment。 工作 在这边2年了，衣食住行啥的都已经非常的熟悉，顺便工资也没涨，真是一个伤心的故事</description>
     </item>
     
     <item>
       <title>2022年终总结</title>
-      <link>https://blog1.thend03.com/posts/2022%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
+      <link>https://blog.thend03.com/posts/2022%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
       <pubDate>Wed, 04 Jan 2023 22:20:57 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/2022%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
+      <guid>https://blog.thend03.com/posts/2022%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
       <description>2022年终总结 波云诡谲的2022已经结束，现在已经2023年了，回顾下这个2022，有开心，有迷茫，也有快乐。 简单回顾下这奇异的2022年。 疫情 贯穿2022年一整年的主旋律，从年初的严防死守，到年末的应阳尽阳，生活从一个快车道切到了另一个快车道。 2022年年初，还是管的挺严的，</description>
     </item>
     

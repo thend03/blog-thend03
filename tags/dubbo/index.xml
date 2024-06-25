@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dubbo on fayy&amp;fc</title>
-    <link>https://blog1.thend03.com/tags/dubbo/</link>
+    <link>https://blog.thend03.com/tags/dubbo/</link>
     <description>Recent content in Dubbo on fayy&amp;fc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 12 Jul 2023 22:52:55 +0800</lastBuildDate><atom:link href="https://blog1.thend03.com/tags/dubbo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jul 2023 22:52:55 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/dubbo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>dubbo spi</title>
-      <link>https://blog1.thend03.com/posts/dubbo-spi/</link>
+      <link>https://blog.thend03.com/posts/dubbo-spi/</link>
       <pubDate>Wed, 12 Jul 2023 22:52:55 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/dubbo-spi/</guid>
+      <guid>https://blog.thend03.com/posts/dubbo-spi/</guid>
       <description>dubbo spi</description>
     </item>
     

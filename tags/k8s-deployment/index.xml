@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>K8s-Deployment on fayy&amp;fc</title>
-    <link>https://blog1.thend03.com/tags/k8s-deployment/</link>
+    <link>https://blog.thend03.com/tags/k8s-deployment/</link>
     <description>Recent content in K8s-Deployment on fayy&amp;fc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 19 Jan 2024 10:37:12 +0800</lastBuildDate><atom:link href="https://blog1.thend03.com/tags/k8s-deployment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jan 2024 10:37:12 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/k8s-deployment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>apitable从docker compose到k8s deployment的转变</title>
-      <link>https://blog1.thend03.com/posts/apitable-from-docker-compose-to-k8s-deployment/</link>
+      <link>https://blog.thend03.com/posts/apitable-from-docker-compose-to-k8s-deployment/</link>
       <pubDate>Fri, 19 Jan 2024 10:37:12 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/apitable-from-docker-compose-to-k8s-deployment/</guid>
+      <guid>https://blog.thend03.com/posts/apitable-from-docker-compose-to-k8s-deployment/</guid>
       <description>实在docker-compose到k8s deployment的转变</description>
     </item>
     

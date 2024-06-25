@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Netty on fayy&amp;fc</title>
-    <link>https://blog1.thend03.com/tags/netty/</link>
+    <link>https://blog.thend03.com/tags/netty/</link>
     <description>Recent content in Netty on fayy&amp;fc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 19 Jan 2024 13:09:59 +0800</lastBuildDate><atom:link href="https://blog1.thend03.com/tags/netty/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jan 2024 13:09:59 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/netty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用netty-client建立websocket连接</title>
-      <link>https://blog1.thend03.com/posts/connect-websocket-by-netty-client/</link>
+      <link>https://blog.thend03.com/posts/connect-websocket-by-netty-client/</link>
       <pubDate>Fri, 19 Jan 2024 13:09:59 +0800</pubDate>
       
-      <guid>https://blog1.thend03.com/posts/connect-websocket-by-netty-client/</guid>
+      <guid>https://blog.thend03.com/posts/connect-websocket-by-netty-client/</guid>
       <description>使用netty-client建立websocket连接</description>
     </item>
     
