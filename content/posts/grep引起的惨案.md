@@ -19,15 +19,21 @@ description: "grep使用不当引起的惨案"
 def result = sh(script: "grep -c 'Uploading successfully' result.txt", returnStdout: true).trim()
 ```
 
+
+
 这个命令返回文本中包含`Uploading successfully`字符串的数量。
 
 看似很简单的一个grep命令，好像也没什么问题。
 
 但是一直行就失败，失败的我很难受。
 
+
+
 ```shell
 缺陷扫描异常:hudson.AbortException: script returned exit code 1
 ```
+
+
 
 而且jenkins执行一次要一个小时，多次打日志定位错误，折磨，折磨，折磨！！！
 
@@ -59,7 +65,11 @@ shell语句执行会有状态码，0代表执行成功，其他值代表执行�
 0
 ```
 
+
+
 可以看到，匹配的上的执行`echo $?`返回了0，即正常退出， 匹配不上的返回了1，即异常退出。
+
+
 
 至于匹配的上的，但是count返回了1，可以看下下面的文档解释，按行匹配的，有1行匹配，count+1
 
@@ -69,9 +79,13 @@ shell语句执行会有状态码，0代表执行成功，其他值代表执行�
 
 # 解决方案
 
-可以在grep命令之后追加 `||:`或者`||true`这2种方式，让grep命令正常返回
+可以在grep命令之后追加 `||:`或者`||true`这2种方式，让grep命令正常返回。
 
-问了下gpt，gpt更推进使用`||:`，所以使用`||:`实现在没有匹配行的情况下返回0
+
+
+问了下gpt，gpt更推进使用`||:`，所以使用`||:`实现在没有匹配行的情况下返回0。
+
+
 
 以下是修改后的执行示例
 
