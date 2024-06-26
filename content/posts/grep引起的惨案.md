@@ -7,6 +7,7 @@ tags: ["linux","grep"]
 categories: ["linux"]
 authors: ["since"]
 description: "grep使用不当引起的惨案"
+disableShare: true # 底部不显示分享栏
 ---
 
 
