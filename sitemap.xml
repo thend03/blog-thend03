@@ -3,15 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.thend03.com/posts/</loc>
-    <lastmod>2024-06-25T19:38:05+08:00</lastmod>
+    <lastmod>2024-06-26T09:10:25+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/categories/</loc>
+    <lastmod>2024-06-26T09:10:25+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/</loc>
-    <lastmod>2024-06-25T19:38:05+08:00</lastmod>
+    <lastmod>2024-06-26T09:10:25+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/tags/hongkong/</loc>
-    <lastmod>2024-06-25T19:38:05+08:00</lastmod>
+    <loc>https://blog.thend03.com/tags/grep/</loc>
+    <lastmod>2024-06-26T09:10:25+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/posts/incorrect-use-of-grep/</loc>
+    <lastmod>2024-06-26T09:10:25+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/tags/linux/</loc>
+    <lastmod>2024-06-26T09:10:25+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/categories/linux/</loc>
+    <lastmod>2024-06-26T09:10:25+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/tags/</loc>
+    <lastmod>2024-06-26T09:10:25+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/tags/hongkong/</loc>
     <lastmod>2024-06-25T19:38:05+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/posts/city-walk-at-hongkong/</loc>
@@ -35,9 +50,6 @@
     <loc>https://blog.thend03.com/posts/2024-q1-summary/</loc>
     <lastmod>2024-04-16T15:02:42+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/categories/</loc>
-    <lastmod>2024-04-16T15:02:42+08:00</lastmod>
-  </url><url>
     <loc>https://blog.thend03.com/tags/manjaro/</loc>
     <lastmod>2024-02-06T15:36:27+08:00</lastmod>
   </url><url>
@@ -46,9 +58,6 @@
   </url><url>
     <loc>https://blog.thend03.com/posts/manjaro-env-config/</loc>
     <lastmod>2024-02-06T15:36:27+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.thend03.com/categories/linux/</loc>
-    <lastmod>2024-02-06T13:07:38+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/tags/manajaro/</loc>
     <lastmod>2024-02-06T13:07:38+08:00</lastmod>
