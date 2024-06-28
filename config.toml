@@ -94,7 +94,7 @@ PublicSecurityIconLink = ""
 #公网安备
 PublicNetworkSecurity = ""
 Reward = true
-WechatPay = "img/wechat_pay.png"
+WechatPay = "img/wechat-pay.png"
 Alipay = "img/alipay.png"
 
 [params.profileMode]
