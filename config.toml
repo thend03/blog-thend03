@@ -189,6 +189,7 @@ keys = [ "title", "permalink", "summary" ]
 
 [params.twikoo]
 version = "1.5.8"
+id = "https://twikoo-e1f2-2yfafx14j-thend03s-projects.vercel.app/"
 
 [taxonomies]
 category = "categories"
