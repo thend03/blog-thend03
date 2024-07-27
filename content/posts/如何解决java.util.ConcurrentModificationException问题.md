@@ -4,7 +4,7 @@ date: 2024-07-26T17:07:58+08:00
 title: "如何解决java.util.ConcurrentModificationException问题"
 slug: "how-to-fix-java.util.ConcurrentModificationException" 
 tags: ["java","juc","exception"]
-categories: []
+categories: ["java"]
 authors: ["since"]
 description: "如何解决java.util.ConcurrentModificationException问题"
 disableShare: true # 底部不显示分享栏
