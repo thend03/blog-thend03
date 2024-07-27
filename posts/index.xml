@@ -6,7 +6,16 @@
     <description>Recent content in 📚文章 on Fayy&amp;Fc&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 21 Jul 2024 13:08:59 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jul 2024 17:07:58 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何解决java.util.ConcurrentModificationException问题</title>
+      <link>https://blog.thend03.com/posts/how-to-fix-java.util.concurrentmodificationexception/</link>
+      <pubDate>Fri, 26 Jul 2024 17:07:58 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/how-to-fix-java.util.concurrentmodificationexception/</guid>
+      <description>如何解决java.util.ConcurrentModificationException问题</description>
+    </item>
+    
     <item>
       <title>如何做一个小报童分销导航</title>
       <link>https://blog.thend03.com/posts/how-to-make-a-xiaobot-nav/</link>
