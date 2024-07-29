@@ -46,7 +46,7 @@ disableShare: true # 底部不显示分享栏
 
 ### 并发修改错误原因分析
 
-`java.util.ArrayList.Itr`是ArrayList的内部类，expectedModCount是属于Itr的成员变量,。
+`java.util.ArrayList.Itr`是ArrayList的内部类，expectedModCount是属于Itr的成员变量。
 
 
 
@@ -328,6 +328,12 @@ Exception in thread "Thread-0" java.util.ConcurrentModificationException
 
 加了`Thread.sleep(50);`，2个线程会并发执行，就会抛异常了。
 
+## 解决方式
+
+第一种，避免在迭代器里执行add/remove操作，如果需要在遍历的过程中修改集合，记得使用迭代器进行操作
+
+第二种也可以归类为迭代器和集合的操作，这种首先也需要避免迭代器和遍历一起操作, 另外多线程需要确保线程安全，按实际情况加锁。
+
 
 
 ## Fail-Fast
@@ -353,6 +359,10 @@ Exception in thread "Thread-0" java.util.ConcurrentModificationException
 
 
 其实，这是一种理念，说白了就是在做系统设计的时候先考虑异常情况，一旦发生异常，直接停止并上报。
+
+
+
+
 
 
 
