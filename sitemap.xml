@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.thend03.com/posts/</loc>
+    <lastmod>2024-08-28T07:11:36+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/</loc>
+    <lastmod>2024-08-28T07:11:36+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/tags/life/</loc>
+    <lastmod>2024-08-28T07:11:36+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/tags/</loc>
+    <lastmod>2024-08-28T07:11:36+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/posts/yin-shanhu-not-good-memories/</loc>
+    <lastmod>2024-08-28T07:11:36+08:00</lastmod>
+  </url><url>
     <loc>https://blog.thend03.com/tags/github-actions/</loc>
     <lastmod>2024-08-14T08:42:17+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/posts/</loc>
-    <lastmod>2024-08-14T08:42:17+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.thend03.com/</loc>
-    <lastmod>2024-08-14T08:42:17+08:00</lastmod>
-  </url><url>
     <loc>https://blog.thend03.com/tags/xiaobot/</loc>
-    <lastmod>2024-08-14T08:42:17+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.thend03.com/tags/</loc>
     <lastmod>2024-08-14T08:42:17+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/posts/automatic-for-xiaobot-nav/</loc>
