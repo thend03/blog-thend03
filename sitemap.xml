@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.thend03.com/posts/</loc>
-    <lastmod>2024-08-29T20:45:22+08:00</lastmod>
+    <lastmod>2024-09-11T15:40:13+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/</loc>
+    <lastmod>2024-09-11T15:40:13+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/tags/java/</loc>
+    <lastmod>2024-09-11T15:40:13+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/tags/</loc>
+    <lastmod>2024-09-11T15:40:13+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/posts/view-jvm-dynamic-class-detail/</loc>
+    <lastmod>2024-09-11T15:40:13+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/posts/2024-q3-summary/</loc>
     <lastmod>2024-08-29T20:45:22+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/</loc>
-    <lastmod>2024-08-29T20:45:22+08:00</lastmod>
-  </url><url>
     <loc>https://blog.thend03.com/tags/life/</loc>
-    <lastmod>2024-08-29T20:45:22+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.thend03.com/tags/</loc>
     <lastmod>2024-08-29T20:45:22+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/posts/yin-shanhu-not-good-memories/</loc>
@@ -33,9 +39,6 @@
     <lastmod>2024-07-26T17:07:58+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/tags/exception/</loc>
-    <lastmod>2024-07-26T17:07:58+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.thend03.com/tags/java/</loc>
     <lastmod>2024-07-26T17:07:58+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/categories/java/</loc>

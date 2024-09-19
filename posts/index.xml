@@ -6,7 +6,20 @@
     <description>Recent content in 📚文章 on Fayy&amp;Fc&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 29 Aug 2024 20:45:22 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Sep 2024 15:40:13 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何查看jvm运行时生成的动态代理class文件</title>
+      <link>https://blog.thend03.com/posts/view-jvm-dynamic-class-detail/</link>
+      <pubDate>Wed, 11 Sep 2024 15:40:13 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/view-jvm-dynamic-class-detail/</guid>
+      <description>&lt;h1 id=&#34;前言&#34;&gt;前言&lt;/h1&gt;
+&lt;p&gt;最近看dubbo的时候，看到了讲spi的部分，其中提到了@Adaptive注解生成了代理类&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202409111608009.png&#34; alt=&#34;image-20240911160843943&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;我后面去debug了一下，打了断点，发现在运行时，只是显示了class的名称，由于&lt;strong&gt;RegistryFactory$Adaptive&lt;/strong&gt; 是动态生成的，所以没有class文件结构可以看，而文章里贴了class文件。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>2024三季度总结</title>
       <link>https://blog.thend03.com/posts/2024-q3-summary/</link>
