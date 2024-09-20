@@ -423,7 +423,7 @@ public final class $Proxy0 extends Proxy implements Humen {
 
 
 
-构造函数传入了InvocationHandler，负债给了成员变量h，所以方法的调用都是走的InvocationHandler。
+构造函数传入了InvocationHandler，赋值给了成员变量h，所以方法的调用都是走的InvocationHandler。
 
 本次示例中为DynamicProxy
 
@@ -538,7 +538,7 @@ public class DynamicProxyMain {
 
 # CGLIB代理的class文件
 
-另一种常用的动态生成代理类的方式是使用cglib库，底层是基于asm，底层是基于ASM的
+另一种常用的动态生成代理类的方式是使用cglib库，底层是基于ASM的
 
 cglib代理输出class文件，需要指定参数
 
@@ -947,7 +947,7 @@ Instrumentation 便是 JAVA5 的 Instrument 机制的核心，它负责为类添
 
 
 
-注意 premain 和它的两个参数不能随意修改， 归定是这样，不要修改。
+注意 premain 和它的两个参数不能随意修改， 规定是这样，不要修改。
 
 
 
@@ -1302,8 +1302,18 @@ public class CglibProxy {
 
 
 
-对于查看动态代理class的内容，介绍了相关的方法进行查看。
+对于查看动态代理class的内容，介绍了相关的方法进行查看，但是不够通用。
 
 
 
-相比于自己写agent，还是arthas更加的方便通用一点，不用打agent包，然后添加启动参数去启动进程，arthas直接attach到目标进程上，可以模糊查询类，然后使用jad进行反编译，非常的方便。
+通过写agent，了解了agent的一些知识，如何使用instrument机制在启动时和运行时增加class
+
+
+
+但是相比于自己写agent，还是arthas更加的方便通用一点，不用打agent包，也不用添加启动参数去重启进程。
+
+arthas直接attach到目标进程上，可以模糊查询类，然后使用jad进行反编译，非常的方便。
+
+
+
+arthas作为一个生产排障工具，还有其他更多强大的功能，值得去了解学习
