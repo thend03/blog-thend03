@@ -70,7 +70,7 @@ dubbo的代理类就是使用javassist拼接出来的
 
 ## ASM
 
-asm相比javassist，更加的细力度，且实现更加的复杂。
+asm相比javassist，更加的细粒度，且实现更加的复杂。
 
 
 
