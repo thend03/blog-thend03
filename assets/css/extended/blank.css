@@ -187,7 +187,7 @@ img:active {
 
 
 .list {
-    background-image: url("https://blog.thend03.com/img/background/background2.jpg") !important;
+    background-image: url("https://blog.thend03.com/img/background/background3.jpg") !important;
     /* 照片不重复出现 */
     background-repeat: no-repeat;
     /* 照片大小 */
@@ -197,7 +197,7 @@ img:active {
 }
 
 .dark.list {
-    background-image: url("https://blog.thend03.com/img/background/background2.jpg") !important;
+    background-image: url("https://blog.thend03.com/img/background/background3.jpg") !important;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
