@@ -195,6 +195,7 @@ id = "https://twikoo-e1f2-2yfafx14j-thend03s-projects.vercel.app/"
 category = "categories"
 tag = "tags"
 series = "series"
+social = "social"
 
 [markup.goldmark.renderer]
 unsafe = true
