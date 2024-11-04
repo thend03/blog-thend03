@@ -186,19 +186,19 @@ img:active {
 }
 
 
-.list {
-    background-image: url("https://blog.thend03.com/img/background/background3.jpg") !important;
-    /* 照片不重复出现 */
-    background-repeat: no-repeat;
-    /* 照片大小 */
-    background-size: 100% 100%;
-    /* 右侧滚动时照片固定大小 */
-    background-attachment: fixed;
-}
+/*.list {*/
+/*    background-image: url("https://www.wallpaperhub.app/_next/image?url=https%3A%2F%2Fcdn.wallpaperhub.app%2Fcloudcache%2F5%2F7%2Ff%2F2%2Fe%2Fd%2F57f2ed29c6b984b402774c4c600c0b1089929439.jpg") !important;*/
+/*    !* 照片不重复出现 *!*/
+/*    background-repeat: no-repeat;*/
+/*    !* 照片大小 *!*/
+/*    background-size: 100% 100%;*/
+/*    !* 右侧滚动时照片固定大小 *!*/
+/*    background-attachment: fixed;*/
+/*}*/
 
-.dark.list {
-    background-image: url("https://blog.thend03.com/img/background/background3.jpg") !important;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-attachment: fixed;
-}
+/*.dark.list {*/
+/*    background-image: url("https://cdn.pixabay.com/photo/2018/09/05/04/21/flowers-3655451_1280.jpg") !important;*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: 100% 100%;*/
+/*    background-attachment: fixed;*/
+/*}*/
