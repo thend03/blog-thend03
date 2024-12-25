@@ -1,6 +1,6 @@
 baseURL = "https://blog.thend03.com"
 languageCode = "zh"
-title = "Fayy&Fc's Blog"
+title = "站在海边看远方"
 theme = "hugo-PaperMod"
 enableInlineShortcodes = true
 enableEmoji = true
