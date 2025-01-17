@@ -76,13 +76,13 @@
 </span></span></span><span style=display:flex><span><span style=color:#e6db74>          cd xiaobot-spider
 </span></span></span><span style=display:flex><span><span style=color:#e6db74>          mvn clean package  # 或者使用 `mvn package`，具体取决于你的项目
 </span></span></span><span style=display:flex><span><span style=color:#e6db74>          java -jar target/xiaobot-spider-1.0-SNAPSHOT-jar-with-dependencies.jar  # 运行你的主方法，生成 detail.json
-</span></span></span><span style=display:flex><span><span style=color:#e6db74>          # mv target/detail.json ../detail.json</span>          
+</span></span></span><span style=display:flex><span><span style=color:#e6db74>          # mv target/detail.json ../detail.json</span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span>      - <span style=color:#f92672>name</span>: <span style=color:#ae81ff>Copy detail.json to Vue project</span>
 </span></span><span style=display:flex><span>        <span style=color:#f92672>run</span>: |<span style=color:#e6db74>
 </span></span></span><span style=display:flex><span><span style=color:#e6db74>          pwd
 </span></span></span><span style=display:flex><span><span style=color:#e6db74>          rm -f ./detail.json #删掉当前的，重新生成一个
-</span></span></span><span style=display:flex><span><span style=color:#e6db74>          cp /tmp/detail.json ./detail.json</span>          
+</span></span></span><span style=display:flex><span><span style=color:#e6db74>          cp /tmp/detail.json ./detail.json</span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span>      <span style=color:#75715e># setup npm</span>
 </span></span><span style=display:flex><span>      - <span style=color:#f92672>name</span>: <span style=color:#ae81ff>do npm install</span>
@@ -99,7 +99,7 @@
 </span></span></span><span style=display:flex><span><span style=color:#e6db74>          cat .env
 </span></span></span><span style=display:flex><span><span style=color:#e6db74>          node disposebase.js
 </span></span></span><span style=display:flex><span><span style=color:#e6db74>          echo &#34;print preset.json&#34;
-</span></span></span><span style=display:flex><span><span style=color:#e6db74>          cat src/preset.json</span>          
+</span></span></span><span style=display:flex><span><span style=color:#e6db74>          cat src/preset.json</span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span>      - <span style=color:#f92672>name</span>: <span style=color:#ae81ff>Build</span>
 </span></span><span style=display:flex><span>        <span style=color:#f92672>env</span>:
