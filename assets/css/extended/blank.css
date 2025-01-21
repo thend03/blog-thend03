@@ -35,12 +35,12 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 body {
     font-size: 18px;
     line-height: 1.6;
-    font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    font-family: "JetBrains Mono", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", monospace;
 }
 
 .post-content {
     /*color: var(--secondary);*/
-    font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", monospace;
 }
 
 .post-content h1 {
@@ -183,4 +183,26 @@ img:active {
 /*首页button*/
 .buttons {
     max-width: 100%;
+}
+
+/*修改代码字体*/
+.post-content pre,
+code {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    line-height: 1.2;
+    max-height: 40rem;
+}
+
+/*代码高亮*/
+.post-content pre code,
+.post-content .highlight:not(table),
+.post-content .highlight table {
+    background: unset !important;
+    background-color: var(--code-bg) !important; /* 兼容日夜显示模式 */
+    color: var(--secondary) !important; /* 兼容日夜显示模式 */
+}
+
+.paginav {
+    margin-bottom: 45px;
 }

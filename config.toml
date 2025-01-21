@@ -158,7 +158,7 @@ name = "RSS"
 url = "index.xml"
 
 [params.label]
-text = "fayy&fc"
+text = "thend03"
 icon = "img/logo.jpg"
 iconHeight = 35
 
@@ -191,6 +191,22 @@ keys = [ "title", "permalink", "summary" ]
 version = "1.5.8"
 id = "https://twikoo-e1f2-2yfafx14j-thend03s-projects.vercel.app/"
 
+#giscus评论配置
+[params.giscus]
+giscusRepo = "thend03/blog-comments"
+giscusRepoId = "R_kgDOJx0ckg"
+giscusCategory = "Announcements"
+giscusCategoryId = "DIC_kwDOJx0cks4CmM8j"
+giscusMapping = "pathname"
+giscusStrict = 0
+giscusReactionsEnabled = 1
+giscusEmitMetadata = 0
+giscusInputPosition = "top"
+giscusLang = "zh-CN"
+giscusLoading = "lazy"
+giscusCrossOrigin = "anonymous"
+
+
 [taxonomies]
 category = "categories"
 tag = "tags"
@@ -203,7 +219,8 @@ unsafe = true
 [markup.highlight]
 codeFences = true
 guessSyntax = true
-noClasses = true
+# 代码高亮，css -> assets/css/includes/chroma-styles.css
+noClasses = false
 tabWidth = 4
 style = "monokai"
 

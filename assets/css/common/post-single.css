@@ -1,0 +1,5 @@
+/*代码边框圆角*/
+.post-content .highlight pre {
+    background-color: var(--theme) !important;
+    margin: 0;
+}

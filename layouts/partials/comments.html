@@ -1,38 +1,67 @@
-<!-- {{- /* Comments area start */ -}}
-{{- /* to add comments read => https://gohugo.io/content-management/comments/ */ -}}
-{{- /* Comments area end */ -}}
- -->
+<script>
+    function createGiscusScript(data) {
+        const giscusScript = document.createElement('script');
 
-<style>
-    .comments_details summary::marker {
-        font-size: 20px;
-        content: '👉展开评论';
-        color: var(--content);
-    }
-    .comments_details[open] summary::marker{
-        font-size: 20px;
-        content: '👇关闭评论';
-        color: var(--content);
-    }
-</style>
+        // 动态设置脚本属性
+        Object.entries(data).forEach(([key, value]) => giscusScript.setAttribute(key, value));
 
-<!-- Twikoo -->
-<div>
-    <details class="comments_details" open>
-        <summary style="cursor: pointer; margin: 50px 0 20px 0;width: 130px;">
-            <span style="font-size: 20px;color: var(--content);">...</span>
-        </summary>
-        <div id="tcomment"></div>
-    </details>
-    <script src="https://cdn.staticfile.org/twikoo/{{ .Site.Params.twikoo.version }}/twikoo.all.min.js">
-    </script>
-    <script>
-        twikoo.init({
-            envId: {{ .Site.Params.twikoo.id }},
-        el: "#tcomment",
-            lang: 'zh-CN',
-            region: {{ .Site.Params.twikoo.region }},
-        path: window.TWIKOO_MAGIC_PATH||window.location.pathname,
-        })
-    </script>
-</div>
+        // 将脚本标签添加到 <article> 中
+        document.querySelector('article').appendChild(giscusScript);
+
+        // 切换主题时更新 giscus 主题
+        const toggle = document.querySelector('label[for="switch_default"]');
+        if (toggle) {
+            toggle.addEventListener('click', function () {
+                // 根据 body 类动态设置 giscus 主题
+                const theme = document.body.classList.contains('dark') ? 'transparent_dark' : 'light';
+                giscusScript.setAttribute('data-theme', theme);
+
+                // 给 giscus iframe发送消息，更新主题
+                sendMessage({ setConfig: { theme } });
+            });
+        }
+    }
+
+    function sendMessage(message) {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (iframe) {
+            iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+
+        const giscusAttributes = {
+            src: 'https://giscus.app/client.js',
+            'data-repo': '{{ .Site.Params.giscus.giscusRepo }}',
+            'data-repo-id': '{{ .Site.Params.giscus.giscusRepoId }}',
+            'data-category': '{{ .Site.Params.giscus.giscusCategory }}',
+            'data-category-id': '{{ .Site.Params.giscus.giscusCategoryId }}',
+            'data-mapping': '{{ .Site.Params.giscus.giscusMapping }}',
+            'data-strict': '{{ .Site.Params.giscus.giscusStrict }}',
+            'data-reactions-enabled': '{{ .Site.Params.giscus.giscusReactionsEnabled }}',
+            'data-emit-metadata': '{{ .Site.Params.giscus.giscusEmitMetadata }}',
+            'data-input-position': '{{ .Site.Params.giscus.giscusInputPosition }}',
+            'data-lang': '{{ .Site.Params.giscus.giscusLang }}',
+            'data-loading': '{{ .Site.Params.giscus.giscusLoading }}',
+            crossorigin: '{{ .Site.Params.giscus.giscusCrossOrigin }}',
+            async: '',
+        };
+
+        // 根据 body 类设置初始 giscus 主题
+        giscusAttributes['data-theme'] = document.body.classList.contains('dark')
+            ? 'transparent_dark'
+            : 'light';
+
+        // 调用函数，使用属性创建 giscus 脚本
+        createGiscusScript(giscusAttributes);
+
+        // body 类变化时动态更新 giscus 主题
+        const bodyObserver = new MutationObserver(() => {
+            const theme = document.body.classList.contains('dark') ? 'transparent_dark' : 'light';
+            sendMessage({ setConfig: { theme } });
+        });
+
+        bodyObserver.observe(document.body, { attributes: true, attributeFilter: ['class'] });
+    });
+</script>

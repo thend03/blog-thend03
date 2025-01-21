@@ -1,0 +1,3 @@
+<!--修改链接颜色-->
+<!--https://lvbibir.cn/posts/blog/hello-hugo/#%E4%BF%AE%E6%94%B9%E9%93%BE%E6%8E%A5%E9%A2%9C%E8%89%B2-->
+<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="noopener" style="color:#E16723";{{ end }}>{{ .Text | safeHTML }}</a>
