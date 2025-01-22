@@ -109,9 +109,10 @@ body {
     color: var(--secondary);
 }
 
+
 /* 元信息（如日期等）与标题分隔 */
 .post-meta {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .dark body, .dark a, .dark .toc .details {
