@@ -41,34 +41,51 @@ body {
 .post-content {
     /*color: var(--secondary);*/
     font-family: "JetBrains Mono","PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", monospace;
+    line-height: 1.8; /* 增大行高 */
+    margin-top: 10px; /* 顶部距离 */
+    margin-bottom: 10px; /* 底部距离 */
 }
 
+/* 文章标题增加间距 */
 .post-content h1 {
     font-size: 40px;
+    margin-top: 30px; /* 增加标题上方间距 */
+    margin-bottom: 20px; /* 增加标题下方间距 */
 }
 
 .post-content h2 {
     font-size: 34px;
+    margin-top: 25px;
+    margin-bottom: 15px;
 }
 
 .post-content h3 {
     font-size: 26px;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 .post-content h4 {
     font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
 }
 
 .post-content h5 {
     font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 5px;
 }
 
 .post-content h6 {
     font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 5px;
 }
 
 .post-content p {
-    margin-top: 20px;
+    margin-top: 25px; /* 段落顶部间距 */
+    margin-bottom: 25px; /* 段落底部间距 */
     /*text-indent: 2em;*/ /*所有首行缩进*/
 }
 
@@ -85,9 +102,16 @@ body {
     color: rgba(180, 181, 182, 0.8);
 }
 
+/* 元信息增加间距 */
 .post-description {
-    padding-bottom: 10px;
+    padding-bottom: 20px; /* 调整底部填充距离 */
+    margin-bottom: 20px; /* 添加额外的下方间距 */
     color: var(--secondary);
+}
+
+/* 元信息（如日期等）与标题分隔 */
+.post-meta {
+    margin-bottom: 20px;
 }
 
 .dark body, .dark a, .dark .toc .details {
@@ -112,7 +136,21 @@ img:active {
     border: 1px solid var(--border);
 }
 
+@media screen and (max-width: 768px) {
+    /* 针对小屏设备的样式 */
+    .post-content h1, .post-content h2, .post-content h3 {
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+
+    .post-content p {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
+
 @media screen and (min-width: 768px) {
+    /* 针对大屏设备的样式 */
     ::-webkit-scrollbar {
         width: 13px;
         height: 13px;
