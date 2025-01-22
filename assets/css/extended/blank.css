@@ -40,7 +40,7 @@ body {
 
 .post-content {
     /*color: var(--secondary);*/
-    font-family: "JetBrains Mono","PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", monospace;
+    font-family: "JetBrains Mono", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", monospace;
     line-height: 1.8; /* 增大行高 */
     margin-top: 10px; /* 顶部距离 */
     margin-bottom: 10px; /* 底部距离 */
@@ -109,9 +109,13 @@ body {
     color: var(--secondary);
 }
 
+.post-title {
+    margin-top: 20px;  /* 可以根据需求调整间距 */
+}
 
 /* 元信息（如日期等）与标题分隔 */
 .post-meta {
+    margin-top: 5px;
     margin-bottom: 10px;
 }
 
