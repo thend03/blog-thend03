@@ -12,7 +12,7 @@ disableShare: true # 底部不显示分享栏
 
 
 
-# 前言
+## 前言
 
 最近看dubbo的时候，看到了讲spi的部分，其中提到了@Adaptive注解生成了代理类
 
@@ -34,7 +34,7 @@ disableShare: true # 底部不显示分享栏
 
 
 
-# Java生成代理类的方式
+## Java生成代理类的方式
 
 首先呢, java生成代理类有如下几种方式。
 
@@ -42,7 +42,7 @@ disableShare: true # 底部不显示分享栏
 
 
 
-## JDK动态代理
+### JDK动态代理
 
 这个是java自身支持的代理方式，自带的，无需引入额外组件，但是只能代理接口。
 
@@ -50,7 +50,7 @@ disableShare: true # 底部不显示分享栏
 
 
 
-## CGLIB动态代理
+### CGLIB动态代理
 
 cglib可以为class创建代理类，类不必是接口，采用的是继承委托类的方式，因此不能代理final类，只能代理所有非final的public/protected类型的方法定义。
 
@@ -60,7 +60,7 @@ cglib是采用的asm字节码拼接技术，继承一个类，子类对方法进
 
 
 
-## Javassist
+### Javassist
 
 使用javassist可以直接操纵字节码，生成代理类。
 
@@ -68,7 +68,7 @@ dubbo的代理类就是使用javassist拼接出来的
 
 
 
-## ASM
+### ASM
 
 asm相比javassist，更加的细粒度，且实现更加的复杂。
 
@@ -76,7 +76,7 @@ asm相比javassist，更加的细粒度，且实现更加的复杂。
 
 
 
-# Dubbo相关代理类的class文件
+## Dubbo相关代理类的class文件
 
 具体到dubbo的话，@Adaptive会生成相关的代理类，Dubbo的代理类是用javaasist生成的。
 
@@ -212,7 +212,7 @@ public class SimpleExt$Adaptive implements com.fc.rpc.dubbo.SimpleExt {
 
 
 
-# JDK动态代理的class文件
+## JDK动态代理的class文件
 
 回归到jdk的动态代理，如何查看jdk动态代理生成的class文件
 
@@ -222,7 +222,7 @@ public class SimpleExt$Adaptive implements com.fc.rpc.dubbo.SimpleExt {
 
 
 
-## 设置参数
+### 设置参数
 
 在调用之前，添加`System.getProperties().put("sun.misc.ProxyGenerator.saveGeneratedFiles","true");`
 
@@ -447,7 +447,7 @@ $Proxy0调用eat方法，然后执行到了`com.fc.se.proxy.DynamicProxy#invoke`
 
 
 
-## 输出到文件
+### 输出到文件
 
 上一步中我们知道了生成的代理类的类名是$Proxy0, debug的时候也能看到类名，我们可以调用方法将这个类打印到文件里。
 
@@ -510,7 +510,7 @@ public class DynamicProxyMain {
 
 
 
-## hsdb
+### hsdb
 
 另一种是hsdb
 
@@ -536,7 +536,7 @@ public class DynamicProxyMain {
 
 
 
-# CGLIB代理的class文件
+## CGLIB代理的class文件
 
 另一种常用的动态生成代理类的方式是使用cglib库，底层是基于ASM的
 
@@ -893,7 +893,7 @@ public class CglibBaseBean$$EnhancerByCGLIB$$bf21c123 extends CglibBaseBean impl
 
 
 
-# 使用Agent输出class文件
+## 使用Agent输出class文件
 
 再一种方式就是使用Instrument, 这是jdk5提供的能力。
 
@@ -1167,13 +1167,13 @@ public class ClazzDumpCustomTransformer implements ClassFileTransformer {
 
 
 
-# 使用arthas输出class文件
+## 使用arthas输出class文件
 
 提到agent，那就不得不说到arthas了，arthas在运行时排障非常的好用，点个赞。
 
 
 
-## 动态代理
+### 动态代理
 
 当使用 `arthas-boot` 启动 Arthas 时，它会使用 Java 的 **Attach API** 来将自身动态注入到目标 JVM 进程中。通过附加 `agentmain` 方法，Arthas 可以对 JVM 进程进行监控和修改
 
@@ -1248,7 +1248,7 @@ public class DubboSpi {
 
 
 
-## javassist
+### javassist
 
 仍然让进程挂在那，重新启动arthas进行attach
 
@@ -1258,7 +1258,7 @@ public class DubboSpi {
 
 
 
-## cglib
+### cglib
 
 让进程空跑，使用arthas进行attach
 
@@ -1296,7 +1296,7 @@ public class CglibProxy {
 
 
 
-# 总结
+## 总结
 
 本文介绍了一下java生成动态代理类的方式，像jdk动态代理，cglib动态代理，javassist在项目中都有广泛的应用。
 
