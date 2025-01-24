@@ -9,28 +9,28 @@
     <lastBuildDate>Fri, 19 Jan 2024 14:37:22 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/apitable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用sentry监控apitable</title>
-      <link>https://blog.thend03.com/posts/use-sentry-to-monitor-apitable/</link>
+      <link>https://blog.thend03.com/posts/tech/use-sentry-to-monitor-apitable/</link>
       <pubDate>Fri, 19 Jan 2024 14:37:22 +0800</pubDate>
       
-      <guid>https://blog.thend03.com/posts/use-sentry-to-monitor-apitable/</guid>
+      <guid>https://blog.thend03.com/posts/tech/use-sentry-to-monitor-apitable/</guid>
       <description>使用sentry监控apitable</description>
     </item>
     
     <item>
       <title>apitable从docker compose到k8s deployment的转变</title>
-      <link>https://blog.thend03.com/posts/apitable-from-docker-compose-to-k8s-deployment/</link>
+      <link>https://blog.thend03.com/posts/tech/apitable-from-docker-compose-to-k8s-deployment/</link>
       <pubDate>Fri, 19 Jan 2024 10:37:12 +0800</pubDate>
       
-      <guid>https://blog.thend03.com/posts/apitable-from-docker-compose-to-k8s-deployment/</guid>
+      <guid>https://blog.thend03.com/posts/tech/apitable-from-docker-compose-to-k8s-deployment/</guid>
       <description>实在docker-compose到k8s deployment的转变</description>
     </item>
     
     <item>
       <title>nginx替换占位符</title>
-      <link>https://blog.thend03.com/posts/nginx-replace-placeholder/</link>
+      <link>https://blog.thend03.com/posts/tech/nginx-replace-placeholder/</link>
       <pubDate>Thu, 18 Jan 2024 09:09:37 +0800</pubDate>
       
-      <guid>https://blog.thend03.com/posts/nginx-replace-placeholder/</guid>
+      <guid>https://blog.thend03.com/posts/tech/nginx-replace-placeholder/</guid>
       <description>nginx配置文件使用占位符,读取环境变量替换占位符</description>
     </item>
     

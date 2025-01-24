@@ -9,19 +9,19 @@
     <lastBuildDate>Thu, 14 Sep 2023 14:59:12 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/oom/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>heap-oom</title>
-      <link>https://blog.thend03.com/posts/heap-oom/</link>
+      <link>https://blog.thend03.com/posts/tech/heap-oom/</link>
       <pubDate>Thu, 14 Sep 2023 14:59:12 +0800</pubDate>
       
-      <guid>https://blog.thend03.com/posts/heap-oom/</guid>
+      <guid>https://blog.thend03.com/posts/tech/heap-oom/</guid>
       <description>heap oom</description>
     </item>
     
     <item>
       <title>metaspace-oom</title>
-      <link>https://blog.thend03.com/posts/metaspace-oom/</link>
+      <link>https://blog.thend03.com/posts/tech/metaspace-oom/</link>
       <pubDate>Thu, 07 Sep 2023 09:47:33 +0800</pubDate>
       
-      <guid>https://blog.thend03.com/posts/metaspace-oom/</guid>
+      <guid>https://blog.thend03.com/posts/tech/metaspace-oom/</guid>
       <description>metaspace oom</description>
     </item>
     

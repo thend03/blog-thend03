@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 19 Jan 2024 10:37:12 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/k8s-deployment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>apitable从docker compose到k8s deployment的转变</title>
-      <link>https://blog.thend03.com/posts/apitable-from-docker-compose-to-k8s-deployment/</link>
+      <link>https://blog.thend03.com/posts/tech/apitable-from-docker-compose-to-k8s-deployment/</link>
       <pubDate>Fri, 19 Jan 2024 10:37:12 +0800</pubDate>
       
-      <guid>https://blog.thend03.com/posts/apitable-from-docker-compose-to-k8s-deployment/</guid>
+      <guid>https://blog.thend03.com/posts/tech/apitable-from-docker-compose-to-k8s-deployment/</guid>
       <description>实在docker-compose到k8s deployment的转变</description>
     </item>
     

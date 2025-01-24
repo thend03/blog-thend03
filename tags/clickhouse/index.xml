@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 22 May 2023 20:28:54 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/clickhouse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>clickhouse删除partition</title>
-      <link>https://blog.thend03.com/posts/delete-clickhouse-partition/</link>
+      <link>https://blog.thend03.com/posts/tech/delete-clickhouse-partition/</link>
       <pubDate>Mon, 22 May 2023 20:28:54 +0800</pubDate>
       
-      <guid>https://blog.thend03.com/posts/delete-clickhouse-partition/</guid>
+      <guid>https://blog.thend03.com/posts/tech/delete-clickhouse-partition/</guid>
       <description>删除过期partition</description>
     </item>
     

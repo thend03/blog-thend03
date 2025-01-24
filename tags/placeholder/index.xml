@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 18 Jan 2024 09:09:37 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/placeholder/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>nginx替换占位符</title>
-      <link>https://blog.thend03.com/posts/nginx-replace-placeholder/</link>
+      <link>https://blog.thend03.com/posts/tech/nginx-replace-placeholder/</link>
       <pubDate>Thu, 18 Jan 2024 09:09:37 +0800</pubDate>
       
-      <guid>https://blog.thend03.com/posts/nginx-replace-placeholder/</guid>
+      <guid>https://blog.thend03.com/posts/tech/nginx-replace-placeholder/</guid>
       <description>nginx配置文件使用占位符,读取环境变量替换占位符</description>
     </item>
     
