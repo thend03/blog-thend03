@@ -13,7 +13,7 @@
       <pubDate>Wed, 11 Sep 2024 15:40:13 +0800</pubDate>
       
       <guid>https://blog.thend03.com/posts/tech/view-jvm-dynamic-class-detail/</guid>
-      <description>&lt;h1 id=&#34;前言&#34;&gt;前言&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;最近看dubbo的时候，看到了讲spi的部分，其中提到了@Adaptive注解生成了代理类&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202409111608009.png&#34; alt=&#34;image-20240911160843943&#34;  /&gt;
 &lt;/p&gt;
