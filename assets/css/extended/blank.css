@@ -120,6 +120,8 @@ body {
     font-size: 1rem;
     margin-top: 1rem;
 }
+
+
 /* GitHub 样式的表格 */
 .post-content table tr {
     border: 1px solid #979da3 !important;
@@ -134,6 +136,42 @@ body {
 .post-content table td {
     border: 1px solid #979da3 !important;
 }
+
+/* 统一标题悬停效果 */
+h1:hover::before,
+h2:hover::before,
+h3:hover::before,
+h4:hover::before,
+h5:hover::before,
+h6:hover::before {
+    color: #ccc; /* 设置#号的颜色 */
+    position: absolute;
+    left: 0; /* 将#号定位到标题的左侧 */
+    transform: translateX(-100%); /* 将#号移动到标题左侧 */
+    margin-right: 0.2em; /* 控制#号和标题内容的间距 */
+    font-weight: normal;
+    vertical-align: middle; /* 使#号垂直居中 */
+}
+h1:hover::before {
+    content: "# ";
+}
+h2:hover::before {
+    content: "## ";
+}
+h3:hover::before {
+    content: "### ";
+}
+h4:hover::before {
+    content: "#### ";
+}
+h5:hover::before {
+    content: "##### ";
+}
+h6:hover::before {
+    content: "###### ";
+}
+
+
 
 
 .dark .post-content h1, .dark .post-content h2, .dark .post-content h3,
