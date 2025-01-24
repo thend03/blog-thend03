@@ -14,14 +14,11 @@ showbreadcrumbs: false
 
 <div class="friend">
 
-{{< friend name="thend03's Blog" url="https://blog.thend03.com/" logo="https://www.sulvblog.cn/img/logo.jpg" word="一个记录技术、阅读、生活的博客" >}}
+{{< friend name="thend03's Blog" url="https://blog.thend03.com/" logo="https://blog.thend03.com/img/logo.jpg" word="一个记录技术、阅读、生活的博客" >}}
 
 
 </div>
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -32,12 +29,12 @@ showbreadcrumbs: false
 <div style="font-size: 16px;">
 
 
-|    |                                    |
-| -- |------------------------------------|
-| 名称 | thend03's Blog                     |
-| 网址 | https://blog.thend03.com           |
-| 图标 | https://blog.thend03.com/img/Q.gif |
-| 描述 | 一个记录技术、阅读、生活的博客                    |
+|            |                                    |
+|------------|------------------------------------|
+| 名称&nbsp;   | thend03's Blog                     |
+| 网址&nbsp;   | https://blog.thend03.com           |
+| 图标&nbsp;   | https://blog.thend03.com/img/Q.gif |
+| 描述&nbsp;   | 一个记录技术、阅读、生活的博客                    |
 
 </div>
 
