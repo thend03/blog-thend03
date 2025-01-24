@@ -480,13 +480,13 @@
       
       <guid>https://blog.thend03.com/links/</guid>
       <description>&lt;div class=&#34;friend&#34;&gt;
-&lt;a target=&#34;_blank&#34; href=https://www.sulvblog.cn title=Sulv&amp;#39;s&amp;#32;Blog class=&#34;friendurl&#34;&gt;
+&lt;a target=&#34;_blank&#34; href=https://blog.thend03.com/ title=thend03&amp;#39;s&amp;#32;Blog class=&#34;friendurl&#34;&gt;
   &lt;div class=&#34;frienddiv&#34;&gt;
     &lt;div class=&#34;frienddivleft&#34;&gt;
-      &lt;img class=&#34;myfriend&#34; src=https://www.sulvblog.cn/img/Q.gif /&gt;
+      &lt;img class=&#34;myfriend&#34; src=https://www.sulvblog.cn/img/logo.jpg /&gt;
     &lt;/div&gt;
     &lt;div class=&#34;frienddivright&#34;&gt;
-      &lt;div class=&#34;friendname&#34;&gt;Sulv&amp;#39;s Blog&lt;/div&gt;
+      &lt;div class=&#34;friendname&#34;&gt;thend03&amp;#39;s Blog&lt;/div&gt;
       &lt;div class=&#34;friendinfo&#34;&gt;一个记录技术、阅读、生活的博客&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -509,23 +509,23 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;名称：&lt;/td&gt;
+          &lt;td&gt;名称&lt;/td&gt;
           &lt;td&gt;thend03&amp;rsquo;s Blog&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;网址：&lt;/td&gt;
+          &lt;td&gt;网址&lt;/td&gt;
           &lt;td&gt;
 
 &lt;a href=&#34;https://blog.thend03.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;color:#E16723&#34;;&gt;https://blog.thend03.com&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;图标：&lt;/td&gt;
+          &lt;td&gt;图标&lt;/td&gt;
           &lt;td&gt;
 
 &lt;a href=&#34;https://blog.thend03.com/img/Q.gif&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;color:#E16723&#34;;&gt;https://blog.thend03.com/img/Q.gif&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;描述：&lt;/td&gt;
+          &lt;td&gt;描述&lt;/td&gt;
           &lt;td&gt;一个记录技术、阅读、生活的博客&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -546,6 +546,9 @@
       
       <guid>https://blog.thend03.com/about/</guid>
       <description>&lt;p style=&#34;font-size: 25px;&#34;&gt;关于我&lt;/p&gt;
+**英文名**: since
+**职业**: 程序员
+**运动**: 徒步、爬山、羽毛球 
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -555,15 +558,15 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;英文名:&lt;/td&gt;
+          &lt;td&gt;英文名&lt;/td&gt;
           &lt;td&gt;since&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;职业:&lt;/td&gt;
+          &lt;td&gt;职业&lt;/td&gt;
           &lt;td&gt;程序员&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;运动:&lt;/td&gt;
+          &lt;td&gt;运动&lt;/td&gt;
           &lt;td&gt;徒步、爬山、羽毛球&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
