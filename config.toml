@@ -105,21 +105,21 @@ imageWidth = 150
 imageHeight = 150
 
 #首页的分类
-#[[params.profileMode.buttons]]
-#name = "🧱 博客"
-#url = "posts/blog"
-#
-#[[params.profileMode.buttons]]
-#name = "👨🏻‍💻 技术"
-#url = "posts/tech"
-#
-#[[params.profileMode.buttons]]
-#name = "📕 阅读"
-#url = "posts/read"
-#
-#[[params.profileMode.buttons]]
-#name = "🏖 生活"
-#url = "posts/life"
+[[params.profileMode.buttons]]
+name = "🧱 博客"
+url = "posts/blog"
+
+[[params.profileMode.buttons]]
+name = "👨🏻‍💻 技术"
+url = "posts/tech"
+
+[[params.profileMode.buttons]]
+name = "📕 阅读"
+url = "posts/read"
+
+[[params.profileMode.buttons]]
+name = "🏖 生活"
+url = "posts/life"
 
 [[params.socialIcons]]
 name = "github"
