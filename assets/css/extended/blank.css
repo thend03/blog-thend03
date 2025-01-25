@@ -153,12 +153,12 @@ body {
 }
 
 /* 统一标题悬停效果 */
-h1:hover::before,
-h2:hover::before,
-h3:hover::before,
-h4:hover::before,
-h5:hover::before,
-h6:hover::before {
+.post-content h1:hover::before,
+.post-content h2:hover::before,
+.post-content h3:hover::before,
+.post-content h4:hover::before,
+.post-content h5:hover::before,
+.post-content h6:hover::before {
     color: #ccc; /* 设置#号的颜色 */
     position: absolute;
     left: 0; /* 将#号定位到标题的左侧 */
@@ -168,30 +168,29 @@ h6:hover::before {
     vertical-align: middle; /* 使#号垂直居中 */
 }
 
-h1:hover::before {
+.post-content h1:hover::before {
     content: "# ";
 }
 
-h2:hover::before {
+.post-content h2:hover::before {
     content: "## ";
 }
 
-h3:hover::before {
+.post-content h3:hover::before {
     content: "### ";
 }
 
-h4:hover::before {
+.post-content h4:hover::before {
     content: "#### ";
 }
 
-h5:hover::before {
+.post-content h5:hover::before {
     content: "##### ";
 }
 
-h6:hover::before {
+.post-content h6:hover::before {
     content: "###### ";
 }
-
 
 .dark .post-content h1, .dark .post-content h2, .dark .post-content h3,
 .dark .post-content h4, .dark .post-content h5, .dark .post-content h6,
