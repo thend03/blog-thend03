@@ -3,3 +3,56 @@
     background-color: var(--theme) !important;
     margin: 0;
 }
+
+/* 修复分享按钮图标尺寸 */
+.share-buttons {
+    margin: 14px 0;
+    padding: 8px var(--radius); /* 调整内边距 */
+    display: flex;
+    justify-content: center;
+    align-items: center; /* 垂直居中 */
+    gap: 12px; /* 替代 margin-inline-end */
+}
+
+/* 图标容器 */
+.share-buttons a {
+    margin-top: 0; /* 移除顶部边距 */
+    width: 36px; /* 固定容器宽度 */
+    height: 36px; /* 固定容器高度 */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%; /* 圆形按钮 */
+    transition: transform 0.2s ease;
+}
+
+/* 图标尺寸控制 */
+.share-buttons a i {
+    font-size: 18px; /* Font Awesome 图标尺寸 */
+    line-height: 1;
+}
+
+/* SVG 图标尺寸（如果使用 SVG） */
+.share-buttons a svg {
+    width: 18px;
+    height: 18px;
+}
+
+/* 悬停效果 */
+.share-buttons a:hover {
+    background: var(--border);
+    transform: translateY(-2px);
+}
+
+/* 移动端优化 */
+@media (max-width: 768px) {
+    .share-buttons {
+        justify-content: flex-start; /* 左对齐避免挤压 */
+        overflow-x: auto;
+        padding: 8px 12px;
+    }
+
+    .share-buttons a {
+        flex-shrink: 0; /* 防止按钮被压缩 */
+    }
+}
