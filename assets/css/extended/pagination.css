@@ -327,6 +327,28 @@ a.pageLast:hover {
     box-shadow: 0px 4px 8px rgb(5 10 15 / 5%), 0px 7px 13px -3px rgb(5 10 15 / 30%);
 }
 
+/* 新增核心布局代码 */
+.paginav {
+    display: flex;
+    justify-content: flex-start; /* 左右分布 */
+    gap: 20px; /* 按钮间距 */
+    margin: 2rem 0;
+    width: 100%; /* 确保占满父容器宽度 */
+}
+
+.paginav > .prev {
+    flex: none; /* 保持自然宽度 */
+}
+.paginav > .next {
+    flex: none; /* 允许按钮扩展填充空间 */
+    margin-left: auto; /* 关键属性：将下一页推到最右侧 */
+    text-align: right;
+    max-width: 45%; /* 防止按钮过宽 */
+    padding: 1rem;
+    border-radius: 8px;
+    transition: transform 0.2s ease;
+}
+
 /*文章内的上一页*/
 .paginav .prev {
 }
@@ -350,3 +372,6 @@ a.pageLast:hover {
 .dark .paginav .next:hover {
     background: var(--border);
 }
+
+
+
