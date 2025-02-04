@@ -1,7 +1,7 @@
 baseURL = "https://blog.thend03.com"
 languageCode = "zh"
 title = "站在海边看远方"
-theme = "hugo-PaperMod"
+theme = ["hugo-PaperMod"]
 enableInlineShortcodes = true
 enableEmoji = true
 enableRobotsTXT = true
@@ -63,7 +63,7 @@ url = "links"
 weight = 60
 
 [outputs]
-home = [ "HTML", "RSS", "JSON" ]
+home = ["HTML", "RSS", "JSON"]
 
 [params]
 env = "production"
@@ -185,7 +185,7 @@ location = 0
 distance = 1_000
 threshold = 0.4
 minMatchCharLength = 0
-keys = [ "title", "permalink", "summary" ]
+keys = ["title", "permalink", "summary"]
 
 [params.twikoo]
 version = "1.5.8"
@@ -246,3 +246,5 @@ disableInlineCSS = true
 
 [services.twitter]
 disableInlineCSS = true
+
+timeout = 60000
