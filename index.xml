@@ -64,7 +64,6 @@
     &#34;thumbnailDisplayInterval&#34;: 30,
     &#34;galleryDisplayTransition&#34;: &#34;none&#34;,
     &#34;galleryDisplayTransitionDuration&#34;: 500,
-    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
     &#34;thumbnailDisplayOutsideScreen&#34;: &#34;false&#34;,
     &#34;eventsDebounceDelay&#34;: 10,
     &#34;thumbnailL1BorderHorizontal&#34;: 0,
@@ -86,7 +85,7 @@
     },
     &#34;viewerToolbar&#34;: {
         &#34;display&#34;: true,
-        &#34;standard&#34;: &#34;label&#34;
+        &#34;standard&#34;: &#34;minimizeButton, label&#34;
     },
     &#34;viewerTools&#34;: {
         &#34;topLeft&#34;: &#34;pageCounter, playPauseButton&#34;,
@@ -94,10 +93,10 @@
     },
     &#34;viewerGalleryTWidth&#34;: 40,
     &#34;viewerGalleryTHeight&#34;: 40,
-    &#34;itemsPerRow&#34;: 3,  // 每行显示 3 张图片
-    &#34;galleryMaxRows&#34;: 3,  // 最多显示 3 行（即 9 张图片）
-
-}&#39;&gt;
+    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
+    &#34;galleryMaxRows&#34;: 3
+}&#39;
+&gt;
     
 &lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191718175.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191718175.JPG&#34;&gt;&lt;/a&gt;
 &lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191719011.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191719011.JPG&#34;&gt;&lt;/a&gt;
@@ -129,7 +128,6 @@
     &#34;thumbnailDisplayInterval&#34;: 30,
     &#34;galleryDisplayTransition&#34;: &#34;none&#34;,
     &#34;galleryDisplayTransitionDuration&#34;: 500,
-    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
     &#34;thumbnailDisplayOutsideScreen&#34;: &#34;false&#34;,
     &#34;eventsDebounceDelay&#34;: 10,
     &#34;thumbnailL1BorderHorizontal&#34;: 0,
@@ -151,7 +149,7 @@
     },
     &#34;viewerToolbar&#34;: {
         &#34;display&#34;: true,
-        &#34;standard&#34;: &#34;label&#34;
+        &#34;standard&#34;: &#34;minimizeButton, label&#34;
     },
     &#34;viewerTools&#34;: {
         &#34;topLeft&#34;: &#34;pageCounter, playPauseButton&#34;,
@@ -159,10 +157,10 @@
     },
     &#34;viewerGalleryTWidth&#34;: 40,
     &#34;viewerGalleryTHeight&#34;: 40,
-    &#34;itemsPerRow&#34;: 3,  // 每行显示 3 张图片
-    &#34;galleryMaxRows&#34;: 3,  // 最多显示 3 行（即 9 张图片）
-
-}&#39;&gt;
+    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
+    &#34;galleryMaxRows&#34;: 3
+}&#39;
+&gt;
     
 &lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191722779.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191722779.JPG&#34;&gt;&lt;/a&gt;
 &lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191723317.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191723317.JPG&#34;&gt;&lt;/a&gt;
@@ -202,7 +200,6 @@
     &#34;thumbnailDisplayInterval&#34;: 30,
     &#34;galleryDisplayTransition&#34;: &#34;none&#34;,
     &#34;galleryDisplayTransitionDuration&#34;: 500,
-    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
     &#34;thumbnailDisplayOutsideScreen&#34;: &#34;false&#34;,
     &#34;eventsDebounceDelay&#34;: 10,
     &#34;thumbnailL1BorderHorizontal&#34;: 0,
@@ -224,7 +221,7 @@
     },
     &#34;viewerToolbar&#34;: {
         &#34;display&#34;: true,
-        &#34;standard&#34;: &#34;label&#34;
+        &#34;standard&#34;: &#34;minimizeButton, label&#34;
     },
     &#34;viewerTools&#34;: {
         &#34;topLeft&#34;: &#34;pageCounter, playPauseButton&#34;,
@@ -232,10 +229,10 @@
     },
     &#34;viewerGalleryTWidth&#34;: 40,
     &#34;viewerGalleryTHeight&#34;: 40,
-    &#34;itemsPerRow&#34;: 3,  // 每行显示 3 张图片
-    &#34;galleryMaxRows&#34;: 3,  // 最多显示 3 行（即 9 张图片）
-
-}&#39;&gt;
+    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
+    &#34;galleryMaxRows&#34;: 3
+}&#39;
+&gt;
     
 &lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191746504.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191746504.JPG&#34;&gt;&lt;/a&gt;
 &lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191746270.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191746270.JPG&#34;&gt;&lt;/a&gt;
@@ -275,7 +272,6 @@
     &#34;thumbnailDisplayInterval&#34;: 30,
     &#34;galleryDisplayTransition&#34;: &#34;none&#34;,
     &#34;galleryDisplayTransitionDuration&#34;: 500,
-    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
     &#34;thumbnailDisplayOutsideScreen&#34;: &#34;false&#34;,
     &#34;eventsDebounceDelay&#34;: 10,
     &#34;thumbnailL1BorderHorizontal&#34;: 0,
@@ -297,7 +293,7 @@
     },
     &#34;viewerToolbar&#34;: {
         &#34;display&#34;: true,
-        &#34;standard&#34;: &#34;label&#34;
+        &#34;standard&#34;: &#34;minimizeButton, label&#34;
     },
     &#34;viewerTools&#34;: {
         &#34;topLeft&#34;: &#34;pageCounter, playPauseButton&#34;,
@@ -305,10 +301,10 @@
     },
     &#34;viewerGalleryTWidth&#34;: 40,
     &#34;viewerGalleryTHeight&#34;: 40,
-    &#34;itemsPerRow&#34;: 3,  // 每行显示 3 张图片
-    &#34;galleryMaxRows&#34;: 3,  // 最多显示 3 行（即 9 张图片）
-
-}&#39;&gt;
+    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
+    &#34;galleryMaxRows&#34;: 3
+}&#39;
+&gt;
     
 &lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182116543.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182116543.jpg&#34;&gt;&lt;/a&gt;
 &lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182117492.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182117492.jpg&#34;&gt;&lt;/a&gt;
@@ -339,7 +335,6 @@
     &#34;thumbnailDisplayInterval&#34;: 30,
     &#34;galleryDisplayTransition&#34;: &#34;none&#34;,
     &#34;galleryDisplayTransitionDuration&#34;: 500,
-    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
     &#34;thumbnailDisplayOutsideScreen&#34;: &#34;false&#34;,
     &#34;eventsDebounceDelay&#34;: 10,
     &#34;thumbnailL1BorderHorizontal&#34;: 0,
@@ -361,7 +356,7 @@
     },
     &#34;viewerToolbar&#34;: {
         &#34;display&#34;: true,
-        &#34;standard&#34;: &#34;label&#34;
+        &#34;standard&#34;: &#34;minimizeButton, label&#34;
     },
     &#34;viewerTools&#34;: {
         &#34;topLeft&#34;: &#34;pageCounter, playPauseButton&#34;,
@@ -369,10 +364,10 @@
     },
     &#34;viewerGalleryTWidth&#34;: 40,
     &#34;viewerGalleryTHeight&#34;: 40,
-    &#34;itemsPerRow&#34;: 3,  // 每行显示 3 张图片
-    &#34;galleryMaxRows&#34;: 3,  // 最多显示 3 行（即 9 张图片）
-
-}&#39;&gt;
+    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
+    &#34;galleryMaxRows&#34;: 3
+}&#39;
+&gt;
     
 &lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120558.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120558.jpg&#34;&gt;&lt;/a&gt;
 &lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120588.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120588.jpg&#34;&gt;&lt;/a&gt;
