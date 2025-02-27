@@ -6,7 +6,20 @@
     <description>Recent content in 📚文章 on 站在海边看远方</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 24 Feb 2025 21:09:03 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 15:52:52 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java实现生产者消费者模型</title>
+      <link>https://blog.thend03.com/posts/java-producer-consumer-model/</link>
+      <pubDate>Thu, 27 Feb 2025 15:52:52 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/java-producer-consumer-model/</guid>
+      <description>&lt;h2 id=&#34;案例&#34;&gt;案例&lt;/h2&gt;
+&lt;p&gt;Java并发的时候，看到了一个关于生产者消费者的案例&lt;/p&gt;
+&lt;p&gt;一个producer类和一个consumer类，实现了Runnable接口，作为线程执行的任务&lt;/p&gt;
+&lt;p&gt;一个Queue类，实现了queue的put()和take操作，模拟了生产和消费2个动作&lt;/p&gt;
+&lt;p&gt;实现方式使用了ReentrantLock+Condition&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>江浙沪周边游之诸葛仙山</title>
       <link>https://blog.thend03.com/posts/%E8%AF%B8%E8%91%9B%E4%BB%99%E5%B1%B1/</link>

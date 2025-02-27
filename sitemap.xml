@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.thend03.com/posts/</loc>
-    <lastmod>2025-02-24T21:09:03+08:00</lastmod>
+    <lastmod>2025-02-27T15:52:52+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/posts/%E8%AF%B8%E8%91%9B%E4%BB%99%E5%B1%B1/</loc>
-    <lastmod>2025-02-24T21:09:03+08:00</lastmod>
+    <loc>https://blog.thend03.com/tags/java/</loc>
+    <lastmod>2025-02-27T15:52:52+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/posts/java-producer-consumer-model/</loc>
+    <lastmod>2025-02-27T15:52:52+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/tags/juc/</loc>
+    <lastmod>2025-02-27T15:52:52+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/tags/</loc>
+    <lastmod>2025-02-27T15:52:52+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/</loc>
+    <lastmod>2025-02-27T15:52:52+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/posts/%E8%AF%B8%E8%91%9B%E4%BB%99%E5%B1%B1/</loc>
     <lastmod>2025-02-24T21:09:03+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/posts/%E5%B7%9D%E6%B8%9D%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</loc>
@@ -38,9 +50,6 @@
     <loc>https://blog.thend03.com/tags/travel/</loc>
     <lastmod>2025-01-25T15:29:06+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/tags/</loc>
-    <lastmod>2025-01-25T15:29:06+08:00</lastmod>
-  </url><url>
     <loc>https://blog.thend03.com/posts/life/travel-in-japan/</loc>
     <lastmod>2025-01-25T15:29:06+08:00</lastmod>
   </url><url>
@@ -66,9 +75,6 @@
     <lastmod>2024-09-25T08:45:38+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/posts/tech/</loc>
-    <lastmod>2024-09-11T15:40:13+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.thend03.com/tags/java/</loc>
     <lastmod>2024-09-11T15:40:13+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/posts/tech/view-jvm-dynamic-class-detail/</loc>
@@ -99,9 +105,6 @@
     <lastmod>2024-07-26T17:07:58+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/categories/java/</loc>
-    <lastmod>2024-07-26T17:07:58+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.thend03.com/tags/juc/</loc>
     <lastmod>2024-07-26T17:07:58+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/posts/tech/how-to-fix-java.util.concurrentmodificationexception/</loc>
