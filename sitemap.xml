@@ -125,10 +125,10 @@
     <loc>https://blog.thend03.com/posts/tech/incorrect-use-of-grep/</loc>
     <lastmod>2024-06-26T09:10:25+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/tags/linux/</loc>
+    <loc>https://blog.thend03.com/categories/linux/</loc>
     <lastmod>2024-06-26T09:10:25+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/categories/linux/</loc>
+    <loc>https://blog.thend03.com/tags/linux/</loc>
     <lastmod>2024-06-26T09:10:25+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/tags/hongkong/</loc>
@@ -155,10 +155,10 @@
     <loc>https://blog.thend03.com/posts/life/2024-q1-summary/</loc>
     <lastmod>2024-04-16T15:02:42+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/tags/manjaro/</loc>
+    <loc>https://blog.thend03.com/categories/manjaro/</loc>
     <lastmod>2024-02-06T15:36:27+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/categories/manjaro/</loc>
+    <loc>https://blog.thend03.com/tags/manjaro/</loc>
     <lastmod>2024-02-06T15:36:27+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/posts/tech/manjaro-env-config/</loc>
@@ -338,10 +338,10 @@
     <loc>https://blog.thend03.com/posts/life/2022%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2023-01-04T22:20:57+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/tags/redis/</loc>
+    <loc>https://blog.thend03.com/categories/redis/</loc>
     <lastmod>2022-11-30T15:55:23+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/categories/redis/</loc>
+    <loc>https://blog.thend03.com/tags/redis/</loc>
     <lastmod>2022-11-30T15:55:23+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/posts/tech/tech1/</loc>
