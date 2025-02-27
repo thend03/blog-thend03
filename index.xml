@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 27 Feb 2025 15:52:52 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java实现生产者消费者模型</title>
-      <link>https://blog.thend03.com/posts/java-producer-consumer-model/</link>
+      <link>https://blog.thend03.com/posts/tech/java-producer-consumer-model/</link>
       <pubDate>Thu, 27 Feb 2025 15:52:52 +0800</pubDate>
       
-      <guid>https://blog.thend03.com/posts/java-producer-consumer-model/</guid>
+      <guid>https://blog.thend03.com/posts/tech/java-producer-consumer-model/</guid>
       <description>&lt;h2 id=&#34;案例&#34;&gt;案例&lt;/h2&gt;
 &lt;p&gt;Java并发的时候，看到了一个关于生产者消费者的案例&lt;/p&gt;
 &lt;p&gt;一个producer类和一个consumer类，实现了Runnable接口，作为线程执行的任务&lt;/p&gt;
@@ -22,10 +22,10 @@
     
     <item>
       <title>江浙沪周边游之诸葛仙山</title>
-      <link>https://blog.thend03.com/posts/zhuge-fairy-mount/</link>
+      <link>https://blog.thend03.com/posts/life/zhuge-fairy-mount/</link>
       <pubDate>Mon, 24 Feb 2025 21:09:03 +0800</pubDate>
       
-      <guid>https://blog.thend03.com/posts/zhuge-fairy-mount/</guid>
+      <guid>https://blog.thend03.com/posts/life/zhuge-fairy-mount/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;竹杖芒鞋轻胜马，一蓑烟雨任平生&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;雨打竹叶声碎，倒比晴日多几分清幽。&lt;/p&gt;
@@ -38,28 +38,28 @@
     
     <item>
       <title>川渝之旅图集</title>
-      <link>https://blog.thend03.com/posts/%E5%B7%9D%E6%B8%9D%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</link>
+      <link>https://blog.thend03.com/posts/life/%E5%B7%9D%E6%B8%9D%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</link>
       <pubDate>Wed, 19 Feb 2025 21:39:37 +0800</pubDate>
       
-      <guid>https://blog.thend03.com/posts/%E5%B7%9D%E6%B8%9D%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</guid>
+      <guid>https://blog.thend03.com/posts/life/%E5%B7%9D%E6%B8%9D%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</guid>
       <description></description>
     </item>
     
     <item>
       <title>人生婚纱照图集</title>
-      <link>https://blog.thend03.com/posts/%E4%BA%BA%E7%94%9F%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%9B%BE%E9%9B%86/</link>
+      <link>https://blog.thend03.com/posts/life/%E4%BA%BA%E7%94%9F%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%9B%BE%E9%9B%86/</link>
       <pubDate>Fri, 14 Feb 2025 19:13:32 +0800</pubDate>
       
-      <guid>https://blog.thend03.com/posts/%E4%BA%BA%E7%94%9F%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%9B%BE%E9%9B%86/</guid>
+      <guid>https://blog.thend03.com/posts/life/%E4%BA%BA%E7%94%9F%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%9B%BE%E9%9B%86/</guid>
       <description>&lt;p&gt;一场游戏一场梦，这几年算什么呢，游戏结束之后的存档吗&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>西安之旅图集</title>
-      <link>https://blog.thend03.com/posts/%E8%A5%BF%E5%AE%89%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</link>
+      <link>https://blog.thend03.com/posts/life/%E8%A5%BF%E5%AE%89%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</link>
       <pubDate>Fri, 14 Feb 2025 19:13:20 +0800</pubDate>
       
-      <guid>https://blog.thend03.com/posts/%E8%A5%BF%E5%AE%89%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</guid>
+      <guid>https://blog.thend03.com/posts/life/%E8%A5%BF%E5%AE%89%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</guid>
       <description>&lt;h2 id=&#34;我&#34;&gt;我&lt;/h2&gt;
 &lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;en&#34;&gt;
@@ -263,10 +263,10 @@
     
     <item>
       <title>广西之旅图集</title>
-      <link>https://blog.thend03.com/posts/%E5%B9%BF%E8%A5%BF%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</link>
+      <link>https://blog.thend03.com/posts/life/%E5%B9%BF%E8%A5%BF%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</link>
       <pubDate>Fri, 14 Feb 2025 19:13:06 +0800</pubDate>
       
-      <guid>https://blog.thend03.com/posts/%E5%B9%BF%E8%A5%BF%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</guid>
+      <guid>https://blog.thend03.com/posts/life/%E5%B9%BF%E8%A5%BF%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</guid>
       <description>&lt;h2 id=&#34;day1-桂林&#34;&gt;Day1 桂林&lt;/h2&gt;
 &lt;p&gt;0712桂林图集&lt;/p&gt;
 &lt;!DOCTYPE html&gt;

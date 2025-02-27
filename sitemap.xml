@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.thend03.com/posts/tech/</loc>
+    <lastmod>2025-02-27T15:52:52+08:00</lastmod>
+  </url><url>
     <loc>https://blog.thend03.com/posts/</loc>
     <lastmod>2025-02-27T15:52:52+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/tags/java/</loc>
     <lastmod>2025-02-27T15:52:52+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/posts/java-producer-consumer-model/</loc>
+    <loc>https://blog.thend03.com/posts/tech/java-producer-consumer-model/</loc>
     <lastmod>2025-02-27T15:52:52+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/tags/juc/</loc>
@@ -20,23 +23,23 @@
     <loc>https://blog.thend03.com/</loc>
     <lastmod>2025-02-27T15:52:52+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/posts/zhuge-fairy-mount/</loc>
+    <loc>https://blog.thend03.com/posts/life/</loc>
     <lastmod>2025-02-24T21:09:03+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/posts/%E5%B7%9D%E6%B8%9D%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</loc>
+    <loc>https://blog.thend03.com/posts/life/zhuge-fairy-mount/</loc>
+    <lastmod>2025-02-24T21:09:03+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.thend03.com/posts/life/%E5%B7%9D%E6%B8%9D%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</loc>
     <lastmod>2025-02-19T21:39:37+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/posts/%E4%BA%BA%E7%94%9F%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%9B%BE%E9%9B%86/</loc>
+    <loc>https://blog.thend03.com/posts/life/%E4%BA%BA%E7%94%9F%E5%A9%9A%E7%BA%B1%E7%85%A7%E5%9B%BE%E9%9B%86/</loc>
     <lastmod>2025-02-14T19:13:32+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/posts/%E8%A5%BF%E5%AE%89%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</loc>
+    <loc>https://blog.thend03.com/posts/life/%E8%A5%BF%E5%AE%89%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</loc>
     <lastmod>2025-02-14T19:13:20+08:00</lastmod>
   </url><url>
-    <loc>https://blog.thend03.com/posts/%E5%B9%BF%E8%A5%BF%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</loc>
+    <loc>https://blog.thend03.com/posts/life/%E5%B9%BF%E8%A5%BF%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</loc>
     <lastmod>2025-02-14T19:13:06+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.thend03.com/posts/life/</loc>
-    <lastmod>2025-02-04T16:15:48+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/posts/life/seven-year-itch/</loc>
     <lastmod>2025-02-04T16:15:48+08:00</lastmod>
@@ -73,9 +76,6 @@
   </url><url>
     <loc>https://blog.thend03.com/posts/blog/%E5%88%9B%E4%B8%9A%E6%9C%AA%E5%8D%8A%E5%85%88%E4%BA%8F850/</loc>
     <lastmod>2024-09-25T08:45:38+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.thend03.com/posts/tech/</loc>
-    <lastmod>2024-09-11T15:40:13+08:00</lastmod>
   </url><url>
     <loc>https://blog.thend03.com/posts/tech/view-jvm-dynamic-class-detail/</loc>
     <lastmod>2024-09-11T15:40:13+08:00</lastmod>
