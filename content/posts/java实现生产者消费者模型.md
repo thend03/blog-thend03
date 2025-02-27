@@ -3,7 +3,7 @@ draft: false
 date: 2025-02-27T15:52:52+08:00
 title: "Java实现生产者消费者模型"
 slug: "java-producer-consumer-model" 
-tags: ["java","juc]
+tags: ["java","juc"]
 categories: []
 authors: ["since"]
 description: ""
