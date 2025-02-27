@@ -14,7 +14,6 @@
     "thumbnailDisplayInterval": 30,
     "galleryDisplayTransition": "none",
     "galleryDisplayTransitionDuration": 500,
-    "galleryDisplayMode": "rows",
     "thumbnailDisplayOutsideScreen": "false",
     "eventsDebounceDelay": 10,
     "thumbnailL1BorderHorizontal": 0,
@@ -36,7 +35,7 @@
     },
     "viewerToolbar": {
         "display": true,
-        "standard": "label"
+        "standard": "minimizeButton, label"
     },
     "viewerTools": {
         "topLeft": "pageCounter, playPauseButton",
@@ -44,9 +43,9 @@
     },
     "viewerGalleryTWidth": 40,
     "viewerGalleryTHeight": 40,
-    "itemsPerRow": 3,  // 每行显示 3 张图片
-    "galleryMaxRows": 3,  // 最多显示 3 行（即 9 张图片）
-
-}'>
+    "galleryDisplayMode": "rows",
+    "galleryMaxRows": 3
+}'
+>
     {{ .Inner }}
 </div>
