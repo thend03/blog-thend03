@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ssh on 站在海边看远方</title>
+    <link>https://blog.thend03.com/tags/ssh/</link>
+    <description>Recent content in Ssh on 站在海边看远方</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 19 Oct 2023 14:40:56 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ssh配置</title>
+      <link>https://blog.thend03.com/posts/tech/ssh-config/</link>
+      <pubDate>Thu, 19 Oct 2023 14:40:56 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/ssh-config/</guid>
+      <description>ssh配置</description>
+    </item>
+    
+  </channel>
+</rss>
