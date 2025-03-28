@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Juc on 站在海边看远方</title>
+    <link>https://blog.thend03.com/tags/juc/</link>
+    <description>Recent content in Juc on 站在海边看远方</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 27 Feb 2025 15:52:52 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/juc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java实现生产者消费者模型</title>
+      <link>https://blog.thend03.com/posts/tech/java-producer-consumer-model/</link>
+      <pubDate>Thu, 27 Feb 2025 15:52:52 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/java-producer-consumer-model/</guid>
+      <description>&lt;h2 id=&#34;案例&#34;&gt;案例&lt;/h2&gt;
+&lt;p&gt;Java并发的时候，看到了一个关于生产者消费者的案例&lt;/p&gt;
+&lt;p&gt;一个producer类和一个consumer类，实现了Runnable接口，作为线程执行的任务&lt;/p&gt;
+&lt;p&gt;一个Queue类，实现了queue的put()和take操作，模拟了生产和消费2个动作&lt;/p&gt;
+&lt;p&gt;实现方式使用了ReentrantLock+Condition&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>如何解决java.util.ConcurrentModificationException问题</title>
+      <link>https://blog.thend03.com/posts/tech/how-to-fix-java.util.concurrentmodificationexception/</link>
+      <pubDate>Fri, 26 Jul 2024 17:07:58 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/how-to-fix-java.util.concurrentmodificationexception/</guid>
+      <description>如何解决java.util.ConcurrentModificationException问题</description>
+    </item>
+    
+  </channel>
+</rss>
