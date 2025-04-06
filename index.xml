@@ -5,6 +5,1351 @@
     <link>https://blog.thend03.com/</link>
     <description>Recent content on 站在海边看远方</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language><atom:link href="https://blog.thend03.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language>
+    <lastBuildDate>Wed, 02 Apr 2025 20:12:56 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>人生第一辆车</title>
+      <link>https://blog.thend03.com/posts/the-first-car-in-life/</link>
+      <pubDate>Wed, 02 Apr 2025 20:12:56 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/the-first-car-in-life/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;非必要不买二手车，水深&lt;/p&gt;
+&lt;p&gt;如果不是特别懂二手车，建议别买二手车&lt;/p&gt;
+&lt;p&gt;我属于不懂硬上的，不要学我&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;这个周末买了人生的第一辆4轮车，一辆二手车，从看车到试驾到定车，花了大概半小时吧。&lt;/p&gt;
+&lt;p&gt;试了一辆名爵MG6, 一辆别克凯越，名爵开着有点卡脚，别克开着感觉还可以，然后就定了这辆别克凯越。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202504022016635.png&#34; alt=&#34;image-20250402201655534&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;首先强调一点，二手车的水非常的深，只能说非不要不碰二手车。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>江浙沪周边游之穹窿山</title>
+      <link>https://blog.thend03.com/posts/qionglong-mountain/</link>
+      <pubDate>Tue, 01 Apr 2025 20:47:50 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/qionglong-mountain/</guid>
+      <description>&lt;p&gt;这次徒步路线选在了穹窿山。&lt;/p&gt;
+&lt;p&gt;穹窿山在苏州西南方，苏州的山基本都在这，23年走过灵白线，这周走一下穹窿山。&lt;/p&gt;
+&lt;p&gt;穹窿山一共有3条路线: 爱心线、兔子线、恐龙线。&lt;/p&gt;
+&lt;p&gt;小红书上的攻略基本都大同小异，爱心线看着强度不大，徒步路线走完大概是10公里，且4-5个小时能爬完，所以这次选的是爱心线。&lt;/p&gt;
+&lt;p&gt;爱心线名称的由来，就是走完全程，一个圈连起来像个爱心，推荐使用两步路app，不易走错。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>近期看过的影视剧2</title>
+      <link>https://blog.thend03.com/posts/recent-watched-files/</link>
+      <pubDate>Fri, 28 Mar 2025 20:42:53 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/recent-watched-files/</guid>
+      <description>&lt;h2 id=&#34;肖申克的救赎&#34;&gt;肖申克的救赎&lt;/h2&gt;
+&lt;h2 id=&#34;怦然心动&#34;&gt;怦然心动&lt;/h2&gt;
+&lt;h2 id=&#34;爱乐之城&#34;&gt;爱乐之城&lt;/h2&gt;
+&lt;h2 id=&#34;情书&#34;&gt;情书&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>近期看过的影视剧</title>
+      <link>https://blog.thend03.com/posts/watched-movies-250304/</link>
+      <pubDate>Sun, 02 Mar 2025 21:52:38 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/watched-movies-250304/</guid>
+      <description>&lt;p&gt;近期看了一些电影电视剧，分享给大家。&lt;/p&gt;
+&lt;h2 id=&#34;哪吒2&#34;&gt;哪吒2&lt;/h2&gt;
+&lt;p&gt;「哪吒之魔童闹海」，五年磨一剑，效果非常的赞。&lt;/p&gt;
+&lt;p&gt;整体剧情第1次看的时候，特效非常的到位，埋了几个伏笔 (一开始没看出来)。&lt;/p&gt;
+&lt;p&gt;第一幕申公豹围攻陈塘关的时候，漫天的海底妖兽带着锁链，场面非常的震撼。&lt;/p&gt;
+&lt;p&gt;第二幕是东海决战，捕妖队+天元鼎炼丹，那场面更加的恢弘和庞大了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Java实现生产者消费者模型</title>
+      <link>https://blog.thend03.com/posts/tech/java-producer-consumer-model/</link>
+      <pubDate>Thu, 27 Feb 2025 15:52:52 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/java-producer-consumer-model/</guid>
+      <description>&lt;h2 id=&#34;案例&#34;&gt;案例&lt;/h2&gt;
+&lt;p&gt;Java并发的时候，看到了一个关于生产者消费者的案例&lt;/p&gt;
+&lt;p&gt;一个producer类和一个consumer类，实现了Runnable接口，作为线程执行的任务&lt;/p&gt;
+&lt;p&gt;一个Queue类，实现了queue的put()和take操作，模拟了生产和消费2个动作&lt;/p&gt;
+&lt;p&gt;实现方式使用了ReentrantLock+Condition&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>江浙沪周边游之诸葛仙山</title>
+      <link>https://blog.thend03.com/posts/life/zhuge-fairy-mount/</link>
+      <pubDate>Mon, 24 Feb 2025 21:09:03 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/zhuge-fairy-mount/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;竹杖芒鞋轻胜马，一蓑烟雨任平生&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;雨打竹叶声碎，倒比晴日多几分清幽。&lt;/p&gt;
+&lt;p&gt;周六约了朋友一起爬山，在浙江范围内一通搜寻，发现了一个叫诸葛仙山的地方。&lt;/p&gt;
+&lt;p&gt;这个山在绍兴的越城区富胜镇诸葛山村后倪自然村，是绍兴和上虞的分界地，是浙东的第一仙山，位置还比较偏。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502242111214.png&#34; alt=&#34;image-20250224211159109&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;绍兴地方虽小，但是文化底蕴还是蛮强的。近代有鲁迅，这个大家都知道&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>川渝之旅图集</title>
+      <link>https://blog.thend03.com/posts/life/%E5%B7%9D%E6%B8%9D%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</link>
+      <pubDate>Wed, 19 Feb 2025 21:39:37 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/%E5%B7%9D%E6%B8%9D%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>西安之旅图集</title>
+      <link>https://blog.thend03.com/posts/life/%E8%A5%BF%E5%AE%89%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</link>
+      <pubDate>Fri, 14 Feb 2025 19:13:20 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/%E8%A5%BF%E5%AE%89%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</guid>
+      <description>&lt;h2 id=&#34;我&#34;&gt;我&lt;/h2&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js&#34;&gt;&lt;/script&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/css/nanogallery2.min.css&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/jquery.nanogallery2.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div data-nanogallery2=&#39;{
+    &#34;thumbnailDisplayTransition&#34;: &#34;none&#34;,
+    &#34;thumbnailDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayInterval&#34;: 30,
+    &#34;galleryDisplayTransition&#34;: &#34;none&#34;,
+    &#34;galleryDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayOutsideScreen&#34;: &#34;false&#34;,
+    &#34;eventsDebounceDelay&#34;: 10,
+    &#34;thumbnailL1BorderHorizontal&#34;: 0,
+    &#34;thumbnailL1BorderVertical&#34;: 0,
+    &#34;thumbnailLabel&#34;: {
+        &#34;titleFontSize&#34;: &#34;0.6em&#34;
+    },
+    &#34;thumbnailHoverEffect2&#34;: &#34;image_scale_1.00_1.10|label_backgroundColor_rgba(0,0,0,0)_rgba(255,255,255,0)&#34;,
+    &#34;galleryTheme&#34;: {
+        &#34;thumbnail&#34;: {
+            &#34;borderRadius&#34;: &#34;8px&#34;
+        }
+    },
+    &#34;thumbnailToolbarImage&#34;: {
+        &#34;topLeft&#34;: &#34;&#34;,
+        &#34;topRight&#34;: &#34;&#34;,
+        &#34;bottomLeft&#34;: &#34;&#34;,
+        &#34;bottomRight&#34;: &#34;&#34;
+    },
+    &#34;viewerToolbar&#34;: {
+        &#34;display&#34;: true,
+        &#34;standard&#34;: &#34;minimizeButton, label&#34;
+    },
+    &#34;viewerTools&#34;: {
+        &#34;topLeft&#34;: &#34;pageCounter, playPauseButton&#34;,
+        &#34;topRight&#34;: &#34;downloadButton, rotateLeft, zoomButton, fullscreenButton, closeButton&#34;
+    },
+    &#34;viewerGalleryTWidth&#34;: 40,
+    &#34;viewerGalleryTHeight&#34;: 40,
+    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
+    &#34;galleryMaxRows&#34;: 3
+}&#39;
+&gt;
+    
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191718175.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191718175.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191719011.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191719011.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191720905.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191720905.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191720340.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191720340.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191721582.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191721582.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191722352.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191722352.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191734379.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191734379.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191736255.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191736255.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191740921.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191740921.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191742763.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191742763.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191746297.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191746297.JPG&#34;&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;h2 id=&#34;她&#34;&gt;她&lt;/h2&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js&#34;&gt;&lt;/script&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/css/nanogallery2.min.css&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/jquery.nanogallery2.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div data-nanogallery2=&#39;{
+    &#34;thumbnailDisplayTransition&#34;: &#34;none&#34;,
+    &#34;thumbnailDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayInterval&#34;: 30,
+    &#34;galleryDisplayTransition&#34;: &#34;none&#34;,
+    &#34;galleryDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayOutsideScreen&#34;: &#34;false&#34;,
+    &#34;eventsDebounceDelay&#34;: 10,
+    &#34;thumbnailL1BorderHorizontal&#34;: 0,
+    &#34;thumbnailL1BorderVertical&#34;: 0,
+    &#34;thumbnailLabel&#34;: {
+        &#34;titleFontSize&#34;: &#34;0.6em&#34;
+    },
+    &#34;thumbnailHoverEffect2&#34;: &#34;image_scale_1.00_1.10|label_backgroundColor_rgba(0,0,0,0)_rgba(255,255,255,0)&#34;,
+    &#34;galleryTheme&#34;: {
+        &#34;thumbnail&#34;: {
+            &#34;borderRadius&#34;: &#34;8px&#34;
+        }
+    },
+    &#34;thumbnailToolbarImage&#34;: {
+        &#34;topLeft&#34;: &#34;&#34;,
+        &#34;topRight&#34;: &#34;&#34;,
+        &#34;bottomLeft&#34;: &#34;&#34;,
+        &#34;bottomRight&#34;: &#34;&#34;
+    },
+    &#34;viewerToolbar&#34;: {
+        &#34;display&#34;: true,
+        &#34;standard&#34;: &#34;minimizeButton, label&#34;
+    },
+    &#34;viewerTools&#34;: {
+        &#34;topLeft&#34;: &#34;pageCounter, playPauseButton&#34;,
+        &#34;topRight&#34;: &#34;downloadButton, rotateLeft, zoomButton, fullscreenButton, closeButton&#34;
+    },
+    &#34;viewerGalleryTWidth&#34;: 40,
+    &#34;viewerGalleryTHeight&#34;: 40,
+    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
+    &#34;galleryMaxRows&#34;: 3
+}&#39;
+&gt;
+    
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191722779.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191722779.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191723317.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191723317.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191723978.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191723978.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191724457.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191724457.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191724169.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191724169.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191725589.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191725589.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191726564.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191726564.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191726657.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191726657.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191726672.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191726672.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191727323.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191727323.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191728295.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191728295.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191728389.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191728389.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191729729.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191729729.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191730756.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191730756.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191731778.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191731778.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191731808.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191731808.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191732177.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191732177.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191732847.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191732847.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191733463.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191733463.JPG&#34;&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;h2 id=&#34;合影&#34;&gt;合影&lt;/h2&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js&#34;&gt;&lt;/script&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/css/nanogallery2.min.css&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/jquery.nanogallery2.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div data-nanogallery2=&#39;{
+    &#34;thumbnailDisplayTransition&#34;: &#34;none&#34;,
+    &#34;thumbnailDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayInterval&#34;: 30,
+    &#34;galleryDisplayTransition&#34;: &#34;none&#34;,
+    &#34;galleryDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayOutsideScreen&#34;: &#34;false&#34;,
+    &#34;eventsDebounceDelay&#34;: 10,
+    &#34;thumbnailL1BorderHorizontal&#34;: 0,
+    &#34;thumbnailL1BorderVertical&#34;: 0,
+    &#34;thumbnailLabel&#34;: {
+        &#34;titleFontSize&#34;: &#34;0.6em&#34;
+    },
+    &#34;thumbnailHoverEffect2&#34;: &#34;image_scale_1.00_1.10|label_backgroundColor_rgba(0,0,0,0)_rgba(255,255,255,0)&#34;,
+    &#34;galleryTheme&#34;: {
+        &#34;thumbnail&#34;: {
+            &#34;borderRadius&#34;: &#34;8px&#34;
+        }
+    },
+    &#34;thumbnailToolbarImage&#34;: {
+        &#34;topLeft&#34;: &#34;&#34;,
+        &#34;topRight&#34;: &#34;&#34;,
+        &#34;bottomLeft&#34;: &#34;&#34;,
+        &#34;bottomRight&#34;: &#34;&#34;
+    },
+    &#34;viewerToolbar&#34;: {
+        &#34;display&#34;: true,
+        &#34;standard&#34;: &#34;minimizeButton, label&#34;
+    },
+    &#34;viewerTools&#34;: {
+        &#34;topLeft&#34;: &#34;pageCounter, playPauseButton&#34;,
+        &#34;topRight&#34;: &#34;downloadButton, rotateLeft, zoomButton, fullscreenButton, closeButton&#34;
+    },
+    &#34;viewerGalleryTWidth&#34;: 40,
+    &#34;viewerGalleryTHeight&#34;: 40,
+    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
+    &#34;galleryMaxRows&#34;: 3
+}&#39;
+&gt;
+    
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191746504.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191746504.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191746270.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191746270.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191746993.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191746993.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191746649.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191746649.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191747223.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191747223.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191747745.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191747745.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191747031.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191747031.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191748559.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191748559.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191748924.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191748924.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191748823.JPG&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502191748823.JPG&#34;&gt;&lt;/a&gt;
+
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>广西之旅图集</title>
+      <link>https://blog.thend03.com/posts/life/%E5%B9%BF%E8%A5%BF%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</link>
+      <pubDate>Fri, 14 Feb 2025 19:13:06 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/%E5%B9%BF%E8%A5%BF%E4%B9%8B%E6%97%85%E5%9B%BE%E9%9B%86/</guid>
+      <description>&lt;h2 id=&#34;day1-桂林&#34;&gt;Day1 桂林&lt;/h2&gt;
+&lt;p&gt;0712桂林图集&lt;/p&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js&#34;&gt;&lt;/script&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/css/nanogallery2.min.css&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/jquery.nanogallery2.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div data-nanogallery2=&#39;{
+    &#34;thumbnailDisplayTransition&#34;: &#34;none&#34;,
+    &#34;thumbnailDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayInterval&#34;: 30,
+    &#34;galleryDisplayTransition&#34;: &#34;none&#34;,
+    &#34;galleryDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayOutsideScreen&#34;: &#34;false&#34;,
+    &#34;eventsDebounceDelay&#34;: 10,
+    &#34;thumbnailL1BorderHorizontal&#34;: 0,
+    &#34;thumbnailL1BorderVertical&#34;: 0,
+    &#34;thumbnailLabel&#34;: {
+        &#34;titleFontSize&#34;: &#34;0.6em&#34;
+    },
+    &#34;thumbnailHoverEffect2&#34;: &#34;image_scale_1.00_1.10|label_backgroundColor_rgba(0,0,0,0)_rgba(255,255,255,0)&#34;,
+    &#34;galleryTheme&#34;: {
+        &#34;thumbnail&#34;: {
+            &#34;borderRadius&#34;: &#34;8px&#34;
+        }
+    },
+    &#34;thumbnailToolbarImage&#34;: {
+        &#34;topLeft&#34;: &#34;&#34;,
+        &#34;topRight&#34;: &#34;&#34;,
+        &#34;bottomLeft&#34;: &#34;&#34;,
+        &#34;bottomRight&#34;: &#34;&#34;
+    },
+    &#34;viewerToolbar&#34;: {
+        &#34;display&#34;: true,
+        &#34;standard&#34;: &#34;minimizeButton, label&#34;
+    },
+    &#34;viewerTools&#34;: {
+        &#34;topLeft&#34;: &#34;pageCounter, playPauseButton&#34;,
+        &#34;topRight&#34;: &#34;downloadButton, rotateLeft, zoomButton, fullscreenButton, closeButton&#34;
+    },
+    &#34;viewerGalleryTWidth&#34;: 40,
+    &#34;viewerGalleryTHeight&#34;: 40,
+    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
+    &#34;galleryMaxRows&#34;: 3
+}&#39;
+&gt;
+    
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182116543.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182116543.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182117492.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182117492.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182116559.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182116559.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182116562.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182116562.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182116550.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182116550.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182117107.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182117107.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182116086.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182116086.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182117404.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182117404.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182116697.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182116697.jpg&#34;&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;h2 id=&#34;day2-龙脊梯田&#34;&gt;Day2 龙脊梯田&lt;/h2&gt;
+&lt;p&gt;0713龙脊梯田风景&lt;/p&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js&#34;&gt;&lt;/script&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/css/nanogallery2.min.css&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/jquery.nanogallery2.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div data-nanogallery2=&#39;{
+    &#34;thumbnailDisplayTransition&#34;: &#34;none&#34;,
+    &#34;thumbnailDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayInterval&#34;: 30,
+    &#34;galleryDisplayTransition&#34;: &#34;none&#34;,
+    &#34;galleryDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayOutsideScreen&#34;: &#34;false&#34;,
+    &#34;eventsDebounceDelay&#34;: 10,
+    &#34;thumbnailL1BorderHorizontal&#34;: 0,
+    &#34;thumbnailL1BorderVertical&#34;: 0,
+    &#34;thumbnailLabel&#34;: {
+        &#34;titleFontSize&#34;: &#34;0.6em&#34;
+    },
+    &#34;thumbnailHoverEffect2&#34;: &#34;image_scale_1.00_1.10|label_backgroundColor_rgba(0,0,0,0)_rgba(255,255,255,0)&#34;,
+    &#34;galleryTheme&#34;: {
+        &#34;thumbnail&#34;: {
+            &#34;borderRadius&#34;: &#34;8px&#34;
+        }
+    },
+    &#34;thumbnailToolbarImage&#34;: {
+        &#34;topLeft&#34;: &#34;&#34;,
+        &#34;topRight&#34;: &#34;&#34;,
+        &#34;bottomLeft&#34;: &#34;&#34;,
+        &#34;bottomRight&#34;: &#34;&#34;
+    },
+    &#34;viewerToolbar&#34;: {
+        &#34;display&#34;: true,
+        &#34;standard&#34;: &#34;minimizeButton, label&#34;
+    },
+    &#34;viewerTools&#34;: {
+        &#34;topLeft&#34;: &#34;pageCounter, playPauseButton&#34;,
+        &#34;topRight&#34;: &#34;downloadButton, rotateLeft, zoomButton, fullscreenButton, closeButton&#34;
+    },
+    &#34;viewerGalleryTWidth&#34;: 40,
+    &#34;viewerGalleryTHeight&#34;: 40,
+    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
+    &#34;galleryMaxRows&#34;: 3
+}&#39;
+&gt;
+    
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120558.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120558.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120588.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120588.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120168.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120168.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120201.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120201.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182121607.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182121607.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120177.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120177.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120859.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120859.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120526.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202502182120526.jpg&#34;&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;p&gt;0713龙脊梯田人物画像&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>七年之痒</title>
+      <link>https://blog.thend03.com/posts/life/seven-year-itch/</link>
+      <pubDate>Tue, 04 Feb 2025 16:15:48 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/seven-year-itch/</guid>
+      <description>&lt;h2 id=&#34;序&#34;&gt;序&lt;/h2&gt;
+&lt;p&gt;常言道七年是个坎，感情敌不过七年这个数字，原本我是不信的，但是时间落到我自己身上，我也切切实实的体验了一把。&lt;/p&gt;
+&lt;p&gt;从18年初开始接触，到24年底结束。 开始的接触、试探、在一起，由浅入深，一起经历了7年左右的光阴。&lt;/p&gt;
+&lt;p&gt;从现实角度说，我拿不出那个条件，给不了稳定的保障，别人不愿意和我一起过苦日子也无可厚非。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>日本之旅</title>
+      <link>https://blog.thend03.com/posts/life/travel-in-japan/</link>
+      <pubDate>Sat, 25 Jan 2025 15:29:06 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/travel-in-japan/</guid>
+      <description>&lt;p&gt;11月办下来签证了，5年前没在一起的时候就规划着一起去日本旅行。&lt;/p&gt;
+&lt;p&gt;11月，12月都没去成，签证会在1月底到期。&lt;/p&gt;
+&lt;p&gt;赶着签证没结束，去一趟日本吧，和曾经的爱人一起赴约。&lt;/p&gt;
+&lt;p&gt;由于只有2天时间，不请假，所以只去了东京和镰仓，大阪和京都下次有机会再说&lt;/p&gt;
+&lt;h2 id=&#34;计划&#34;&gt;计划&lt;/h2&gt;
+&lt;p&gt;按照往常准备了一大坨的攻略，但是其实用处不大&lt;/p&gt;
+&lt;p&gt;流量问题可以开国际漫游，买个几天的流量包就行&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2025一季度总结</title>
+      <link>https://blog.thend03.com/posts/life/2025-q1-summary/</link>
+      <pubDate>Sat, 25 Jan 2025 15:15:12 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/2025-q1-summary/</guid>
+      <description>&lt;p&gt;2024就那么悄无声息的结束了，2025如约而至。&lt;/p&gt;
+&lt;p&gt;2025生活会怎样发展呢。&lt;/p&gt;
+&lt;p&gt;一切都是未知的，过去的时间如过眼云烟，未来一切都不可知&lt;/p&gt;
+&lt;h2 id=&#34;january&#34;&gt;January&lt;/h2&gt;
+&lt;h3 id=&#34;元旦躺尸&#34;&gt;元旦躺尸&lt;/h3&gt;
+&lt;p&gt;今年元旦是周三，所以只放周三一天，一天也无处可去，只能安稳躺尸，在宿舍里耗费时间。&lt;/p&gt;
+&lt;p&gt;真的无聊&lt;/p&gt;
+&lt;h3 id=&#34;和朋友小聚&#34;&gt;和朋友小聚&lt;/h3&gt;
+&lt;p&gt;现在时间自由了点，和凡总在公司周边小聚了一下，吃烧烤喝啤酒，男人间的快乐或许就这么简单吧。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>那年今日</title>
+      <link>https://blog.thend03.com/posts/history-of-us/</link>
+      <pubDate>Tue, 31 Dec 2024 20:32:29 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/history-of-us/</guid>
+      <description>&lt;h2 id=&#34;日常生活&#34;&gt;日常生活&lt;/h2&gt;
+&lt;h3 id=&#34;湖边&#34;&gt;湖边&lt;/h3&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js&#34;&gt;&lt;/script&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/css/nanogallery2.min.css&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/jquery.nanogallery2.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div data-nanogallery2=&#39;{
+    &#34;thumbnailDisplayTransition&#34;: &#34;none&#34;,
+    &#34;thumbnailDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayInterval&#34;: 30,
+    &#34;galleryDisplayTransition&#34;: &#34;none&#34;,
+    &#34;galleryDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayOutsideScreen&#34;: &#34;false&#34;,
+    &#34;eventsDebounceDelay&#34;: 10,
+    &#34;thumbnailL1BorderHorizontal&#34;: 0,
+    &#34;thumbnailL1BorderVertical&#34;: 0,
+    &#34;thumbnailLabel&#34;: {
+        &#34;titleFontSize&#34;: &#34;0.6em&#34;
+    },
+    &#34;thumbnailHoverEffect2&#34;: &#34;image_scale_1.00_1.10|label_backgroundColor_rgba(0,0,0,0)_rgba(255,255,255,0)&#34;,
+    &#34;galleryTheme&#34;: {
+        &#34;thumbnail&#34;: {
+            &#34;borderRadius&#34;: &#34;8px&#34;
+        }
+    },
+    &#34;thumbnailToolbarImage&#34;: {
+        &#34;topLeft&#34;: &#34;&#34;,
+        &#34;topRight&#34;: &#34;&#34;,
+        &#34;bottomLeft&#34;: &#34;&#34;,
+        &#34;bottomRight&#34;: &#34;&#34;
+    },
+    &#34;viewerToolbar&#34;: {
+        &#34;display&#34;: true,
+        &#34;standard&#34;: &#34;minimizeButton, label&#34;
+    },
+    &#34;viewerTools&#34;: {
+        &#34;topLeft&#34;: &#34;pageCounter, playPauseButton&#34;,
+        &#34;topRight&#34;: &#34;downloadButton, rotateLeft, zoomButton, fullscreenButton, closeButton&#34;
+    },
+    &#34;viewerGalleryTWidth&#34;: 40,
+    &#34;viewerGalleryTHeight&#34;: 40,
+    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
+    &#34;galleryMaxRows&#34;: 3
+}&#39;
+&gt;
+    
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272056107.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272056107.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272056997.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272056997.jpg&#34;&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;h3 id=&#34;卧室&#34;&gt;卧室&lt;/h3&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js&#34;&gt;&lt;/script&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/css/nanogallery2.min.css&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/jquery.nanogallery2.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div data-nanogallery2=&#39;{
+    &#34;thumbnailDisplayTransition&#34;: &#34;none&#34;,
+    &#34;thumbnailDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayInterval&#34;: 30,
+    &#34;galleryDisplayTransition&#34;: &#34;none&#34;,
+    &#34;galleryDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayOutsideScreen&#34;: &#34;false&#34;,
+    &#34;eventsDebounceDelay&#34;: 10,
+    &#34;thumbnailL1BorderHorizontal&#34;: 0,
+    &#34;thumbnailL1BorderVertical&#34;: 0,
+    &#34;thumbnailLabel&#34;: {
+        &#34;titleFontSize&#34;: &#34;0.6em&#34;
+    },
+    &#34;thumbnailHoverEffect2&#34;: &#34;image_scale_1.00_1.10|label_backgroundColor_rgba(0,0,0,0)_rgba(255,255,255,0)&#34;,
+    &#34;galleryTheme&#34;: {
+        &#34;thumbnail&#34;: {
+            &#34;borderRadius&#34;: &#34;8px&#34;
+        }
+    },
+    &#34;thumbnailToolbarImage&#34;: {
+        &#34;topLeft&#34;: &#34;&#34;,
+        &#34;topRight&#34;: &#34;&#34;,
+        &#34;bottomLeft&#34;: &#34;&#34;,
+        &#34;bottomRight&#34;: &#34;&#34;
+    },
+    &#34;viewerToolbar&#34;: {
+        &#34;display&#34;: true,
+        &#34;standard&#34;: &#34;minimizeButton, label&#34;
+    },
+    &#34;viewerTools&#34;: {
+        &#34;topLeft&#34;: &#34;pageCounter, playPauseButton&#34;,
+        &#34;topRight&#34;: &#34;downloadButton, rotateLeft, zoomButton, fullscreenButton, closeButton&#34;
+    },
+    &#34;viewerGalleryTWidth&#34;: 40,
+    &#34;viewerGalleryTHeight&#34;: 40,
+    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
+    &#34;galleryMaxRows&#34;: 3
+}&#39;
+&gt;
+    
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272035554.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272035554.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272051396.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272051396.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272035582.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272035582.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272121337.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272121337.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272119653.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272119653.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272122071.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272122071.jpg&#34;&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;h3 id=&#34;吃饭&#34;&gt;吃饭&lt;/h3&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js&#34;&gt;&lt;/script&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/css/nanogallery2.min.css&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/jquery.nanogallery2.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div data-nanogallery2=&#39;{
+    &#34;thumbnailDisplayTransition&#34;: &#34;none&#34;,
+    &#34;thumbnailDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayInterval&#34;: 30,
+    &#34;galleryDisplayTransition&#34;: &#34;none&#34;,
+    &#34;galleryDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayOutsideScreen&#34;: &#34;false&#34;,
+    &#34;eventsDebounceDelay&#34;: 10,
+    &#34;thumbnailL1BorderHorizontal&#34;: 0,
+    &#34;thumbnailL1BorderVertical&#34;: 0,
+    &#34;thumbnailLabel&#34;: {
+        &#34;titleFontSize&#34;: &#34;0.6em&#34;
+    },
+    &#34;thumbnailHoverEffect2&#34;: &#34;image_scale_1.00_1.10|label_backgroundColor_rgba(0,0,0,0)_rgba(255,255,255,0)&#34;,
+    &#34;galleryTheme&#34;: {
+        &#34;thumbnail&#34;: {
+            &#34;borderRadius&#34;: &#34;8px&#34;
+        }
+    },
+    &#34;thumbnailToolbarImage&#34;: {
+        &#34;topLeft&#34;: &#34;&#34;,
+        &#34;topRight&#34;: &#34;&#34;,
+        &#34;bottomLeft&#34;: &#34;&#34;,
+        &#34;bottomRight&#34;: &#34;&#34;
+    },
+    &#34;viewerToolbar&#34;: {
+        &#34;display&#34;: true,
+        &#34;standard&#34;: &#34;minimizeButton, label&#34;
+    },
+    &#34;viewerTools&#34;: {
+        &#34;topLeft&#34;: &#34;pageCounter, playPauseButton&#34;,
+        &#34;topRight&#34;: &#34;downloadButton, rotateLeft, zoomButton, fullscreenButton, closeButton&#34;
+    },
+    &#34;viewerGalleryTWidth&#34;: 40,
+    &#34;viewerGalleryTHeight&#34;: 40,
+    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
+    &#34;galleryMaxRows&#34;: 3
+}&#39;
+&gt;
+    
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272121933.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272121933.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272121130.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272121130.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272108403.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272108403.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272108670.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272108670.jpg&#34;&gt;&lt;/a&gt;
+
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272042273.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272042273.jpg&#34;&gt;&lt;/a&gt;
+
+
+&lt;/div&gt;
+&lt;h3 id=&#34;夜色&#34;&gt;夜色&lt;/h3&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js&#34;&gt;&lt;/script&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/css/nanogallery2.min.css&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/jquery.nanogallery2.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div data-nanogallery2=&#39;{
+    &#34;thumbnailDisplayTransition&#34;: &#34;none&#34;,
+    &#34;thumbnailDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayInterval&#34;: 30,
+    &#34;galleryDisplayTransition&#34;: &#34;none&#34;,
+    &#34;galleryDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayOutsideScreen&#34;: &#34;false&#34;,
+    &#34;eventsDebounceDelay&#34;: 10,
+    &#34;thumbnailL1BorderHorizontal&#34;: 0,
+    &#34;thumbnailL1BorderVertical&#34;: 0,
+    &#34;thumbnailLabel&#34;: {
+        &#34;titleFontSize&#34;: &#34;0.6em&#34;
+    },
+    &#34;thumbnailHoverEffect2&#34;: &#34;image_scale_1.00_1.10|label_backgroundColor_rgba(0,0,0,0)_rgba(255,255,255,0)&#34;,
+    &#34;galleryTheme&#34;: {
+        &#34;thumbnail&#34;: {
+            &#34;borderRadius&#34;: &#34;8px&#34;
+        }
+    },
+    &#34;thumbnailToolbarImage&#34;: {
+        &#34;topLeft&#34;: &#34;&#34;,
+        &#34;topRight&#34;: &#34;&#34;,
+        &#34;bottomLeft&#34;: &#34;&#34;,
+        &#34;bottomRight&#34;: &#34;&#34;
+    },
+    &#34;viewerToolbar&#34;: {
+        &#34;display&#34;: true,
+        &#34;standard&#34;: &#34;minimizeButton, label&#34;
+    },
+    &#34;viewerTools&#34;: {
+        &#34;topLeft&#34;: &#34;pageCounter, playPauseButton&#34;,
+        &#34;topRight&#34;: &#34;downloadButton, rotateLeft, zoomButton, fullscreenButton, closeButton&#34;
+    },
+    &#34;viewerGalleryTWidth&#34;: 40,
+    &#34;viewerGalleryTHeight&#34;: 40,
+    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
+    &#34;galleryMaxRows&#34;: 3
+}&#39;
+&gt;
+    
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272129953.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272129953.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272130418.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272130418.jpg&#34;&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;h2 id=&#34;湖边-1&#34;&gt;湖边&lt;/h2&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js&#34;&gt;&lt;/script&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/css/nanogallery2.min.css&#34;&gt;
+    &lt;script src=&#34;https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/jquery.nanogallery2.min.js&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div data-nanogallery2=&#39;{
+    &#34;thumbnailDisplayTransition&#34;: &#34;none&#34;,
+    &#34;thumbnailDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayInterval&#34;: 30,
+    &#34;galleryDisplayTransition&#34;: &#34;none&#34;,
+    &#34;galleryDisplayTransitionDuration&#34;: 500,
+    &#34;thumbnailDisplayOutsideScreen&#34;: &#34;false&#34;,
+    &#34;eventsDebounceDelay&#34;: 10,
+    &#34;thumbnailL1BorderHorizontal&#34;: 0,
+    &#34;thumbnailL1BorderVertical&#34;: 0,
+    &#34;thumbnailLabel&#34;: {
+        &#34;titleFontSize&#34;: &#34;0.6em&#34;
+    },
+    &#34;thumbnailHoverEffect2&#34;: &#34;image_scale_1.00_1.10|label_backgroundColor_rgba(0,0,0,0)_rgba(255,255,255,0)&#34;,
+    &#34;galleryTheme&#34;: {
+        &#34;thumbnail&#34;: {
+            &#34;borderRadius&#34;: &#34;8px&#34;
+        }
+    },
+    &#34;thumbnailToolbarImage&#34;: {
+        &#34;topLeft&#34;: &#34;&#34;,
+        &#34;topRight&#34;: &#34;&#34;,
+        &#34;bottomLeft&#34;: &#34;&#34;,
+        &#34;bottomRight&#34;: &#34;&#34;
+    },
+    &#34;viewerToolbar&#34;: {
+        &#34;display&#34;: true,
+        &#34;standard&#34;: &#34;minimizeButton, label&#34;
+    },
+    &#34;viewerTools&#34;: {
+        &#34;topLeft&#34;: &#34;pageCounter, playPauseButton&#34;,
+        &#34;topRight&#34;: &#34;downloadButton, rotateLeft, zoomButton, fullscreenButton, closeButton&#34;
+    },
+    &#34;viewerGalleryTWidth&#34;: 40,
+    &#34;viewerGalleryTHeight&#34;: 40,
+    &#34;galleryDisplayMode&#34;: &#34;rows&#34;,
+    &#34;galleryMaxRows&#34;: 3
+}&#39;
+&gt;
+    
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272045925.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272045925.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272045251.jpg&#34; data-ngThumb=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272045251.jpg&#34;&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;h3 id=&#34;大厅&#34;&gt;大厅&lt;/h3&gt;
+&lt;h3 id=&#34;马拉松&#34;&gt;马拉松&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202503272118639.jpg&#34; alt=&#34;IMG20230312102243&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>徽杭古道徒步</title>
+      <link>https://blog.thend03.com/posts/life/huihang-ancient-trail-hiking/</link>
+      <pubDate>Wed, 04 Dec 2024 17:46:30 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/huihang-ancient-trail-hiking/</guid>
+      <description>徽杭古道徒步</description>
+    </item>
+    
+    <item>
+      <title>五年,最终落幕</title>
+      <link>https://blog.thend03.com/posts/life/end-of-relationship/</link>
+      <pubDate>Sun, 17 Nov 2024 16:03:32 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/end-of-relationship/</guid>
+      <description>&lt;p&gt;始于2020-01-09，终于2024-11-15&lt;/p&gt;
+&lt;p&gt;其实我一直有感觉这一天会到来，只是没想到会这么的突兀。&lt;/p&gt;
+&lt;p&gt;再继续下去，可能会影响个人的判断和选择，消耗会大于成长。&lt;/p&gt;
+&lt;p&gt;分开，可能会更好的帮助我们回归独立思考，实现自我成长 。&lt;/p&gt;
+&lt;p&gt;我觉得此刻分开可能会是一个比较好的机会，我们双方都互相冷静冷静，思考一下，后面的路该怎么走。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2024四季度总结</title>
+      <link>https://blog.thend03.com/posts/life/2024-q4-summary/</link>
+      <pubDate>Sat, 16 Nov 2024 14:47:34 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/2024-q4-summary/</guid>
+      <description>&lt;h2 id=&#34;october&#34;&gt;October&lt;/h2&gt;
+&lt;h3 id=&#34;东北见闻&#34;&gt;东北见闻&lt;/h3&gt;
+&lt;p&gt;国庆去了东北，见到了北国秋天，还不错&lt;/p&gt;
+&lt;p&gt;
+
+&lt;a href=&#34;https://blog.thend03.com/posts/northeastern-experiences/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;color:#E16723&#34;;&gt;https://blog.thend03.com/posts/northeastern-experiences/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;网吧&#34;&gt;网吧&lt;/h3&gt;
+&lt;p&gt;国庆太累了，后面还要忙，所以趁着十月初，先休息一下，将今年去网吧的额度用掉了&lt;/p&gt;
+&lt;p&gt;难得的放松&lt;/p&gt;
+&lt;h3 id=&#34;备婚&#34;&gt;备婚&lt;/h3&gt;
+&lt;p&gt;准备结婚了，所以10月底准备在积极备婚。&lt;/p&gt;
+&lt;p&gt;首先是四件套+被子，南通家纺比较出名，所以，所以选择南通去南通逛逛&lt;/p&gt;
+&lt;p&gt;南通有个微供市场，是个家纺城，里面卖四件套的，卖被子的，卖毯子的，各种都有&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>东北见闻</title>
+      <link>https://blog.thend03.com/posts/life/northeastern-experiences/</link>
+      <pubDate>Sat, 12 Oct 2024 08:42:21 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/northeastern-experiences/</guid>
+      <description>今年国庆，足迹踏遍东三省</description>
+    </item>
+    
+    <item>
+      <title>创业未半先亏850</title>
+      <link>https://blog.thend03.com/posts/blog/%E5%88%9B%E4%B8%9A%E6%9C%AA%E5%8D%8A%E5%85%88%E4%BA%8F850/</link>
+      <pubDate>Wed, 25 Sep 2024 08:45:38 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/blog/%E5%88%9B%E4%B8%9A%E6%9C%AA%E5%8D%8A%E5%85%88%E4%BA%8F850/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>如何查看jvm运行时生成的动态代理class文件</title>
+      <link>https://blog.thend03.com/posts/tech/view-jvm-dynamic-class-detail/</link>
+      <pubDate>Wed, 11 Sep 2024 15:40:13 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/view-jvm-dynamic-class-detail/</guid>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;最近看dubbo的时候，看到了讲spi的部分，其中提到了@Adaptive注解生成了代理类&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202409111608009.png&#34; alt=&#34;image-20240911160843943&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;我后面去debug了一下，打了断点，发现在运行时，只是显示了class的名称，由于&lt;strong&gt;RegistryFactory$Adaptive&lt;/strong&gt; 是动态生成的，所以没有class文件结构可以看，而文章里贴了class文件。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2024三季度总结</title>
+      <link>https://blog.thend03.com/posts/life/2024-q3-summary/</link>
+      <pubDate>Thu, 29 Aug 2024 20:45:22 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/2024-q3-summary/</guid>
+      <description>2024三季度总结</description>
+    </item>
+    
+    <item>
+      <title>尹山湖生活不那么美好的回忆</title>
+      <link>https://blog.thend03.com/posts/life/yin-shanhu-not-good-memories/</link>
+      <pubDate>Wed, 28 Aug 2024 07:11:36 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/yin-shanhu-not-good-memories/</guid>
+      <description>尹山湖生活不那么美好的回忆</description>
+    </item>
+    
+    <item>
+      <title>实现小报童分销站的自动化</title>
+      <link>https://blog.thend03.com/posts/blog/automatic-for-xiaobot-nav/</link>
+      <pubDate>Wed, 14 Aug 2024 08:42:17 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/blog/automatic-for-xiaobot-nav/</guid>
+      <description>实现小报童分销站的自动化</description>
+    </item>
+    
+    <item>
+      <title>如何解决java.util.ConcurrentModificationException问题</title>
+      <link>https://blog.thend03.com/posts/tech/how-to-fix-java.util.concurrentmodificationexception/</link>
+      <pubDate>Fri, 26 Jul 2024 17:07:58 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/how-to-fix-java.util.concurrentmodificationexception/</guid>
+      <description>如何解决java.util.ConcurrentModificationException问题</description>
+    </item>
+    
+    <item>
+      <title>如何做一个小报童分销导航</title>
+      <link>https://blog.thend03.com/posts/blog/how-to-make-a-xiaobot-nav/</link>
+      <pubDate>Sun, 21 Jul 2024 13:08:59 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/blog/how-to-make-a-xiaobot-nav/</guid>
+      <description>从0到1做1个小报童分销导航</description>
+    </item>
+    
+    <item>
+      <title>grep使用不当引起的惨案</title>
+      <link>https://blog.thend03.com/posts/tech/incorrect-use-of-grep/</link>
+      <pubDate>Wed, 26 Jun 2024 09:10:25 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/incorrect-use-of-grep/</guid>
+      <description>grep使用不当引起的惨案</description>
+    </item>
+    
+    <item>
+      <title>香港见闻</title>
+      <link>https://blog.thend03.com/posts/life/city-walk-at-hongkong/</link>
+      <pubDate>Tue, 25 Jun 2024 19:38:05 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/city-walk-at-hongkong/</guid>
+      <description>香港见闻</description>
+    </item>
+    
+    <item>
+      <title>2024二季度总结</title>
+      <link>https://blog.thend03.com/posts/life/2024-q2-summary/</link>
+      <pubDate>Mon, 17 Jun 2024 14:25:22 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/2024-q2-summary/</guid>
+      <description>2024二季度总结</description>
+    </item>
+    
+    <item>
+      <title>澳门见闻</title>
+      <link>https://blog.thend03.com/posts/life/city-walk-at-macau/</link>
+      <pubDate>Thu, 06 Jun 2024 20:15:17 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/city-walk-at-macau/</guid>
+      <description>在澳门走一走</description>
+    </item>
+    
+    <item>
+      <title>2024年一季度总结</title>
+      <link>https://blog.thend03.com/posts/life/2024-q1-summary/</link>
+      <pubDate>Tue, 16 Apr 2024 15:02:42 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/2024-q1-summary/</guid>
+      <description>2024年一季度总结</description>
+    </item>
+    
+    <item>
+      <title>manjaro环境配置</title>
+      <link>https://blog.thend03.com/posts/tech/manjaro-env-config/</link>
+      <pubDate>Tue, 06 Feb 2024 15:36:27 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/manjaro-env-config/</guid>
+      <description>manjaro环境配置</description>
+    </item>
+    
+    <item>
+      <title>笔记本安装manjaro&#43;windows双系统</title>
+      <link>https://blog.thend03.com/posts/tech/dual-system-installation-manjaro-and-windows/</link>
+      <pubDate>Tue, 06 Feb 2024 13:07:38 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/dual-system-installation-manjaro-and-windows/</guid>
+      <description>如何在笔记本电脑上安装双系统</description>
+    </item>
+    
+    <item>
+      <title>使用sentry监控apitable</title>
+      <link>https://blog.thend03.com/posts/tech/use-sentry-to-monitor-apitable/</link>
+      <pubDate>Fri, 19 Jan 2024 14:37:22 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/use-sentry-to-monitor-apitable/</guid>
+      <description>使用sentry监控apitable</description>
+    </item>
+    
+    <item>
+      <title>使用netty-client建立websocket连接</title>
+      <link>https://blog.thend03.com/posts/tech/connect-websocket-by-netty-client/</link>
+      <pubDate>Fri, 19 Jan 2024 13:09:59 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/connect-websocket-by-netty-client/</guid>
+      <description>使用netty-client建立websocket连接</description>
+    </item>
+    
+    <item>
+      <title>apitable从docker compose到k8s deployment的转变</title>
+      <link>https://blog.thend03.com/posts/tech/apitable-from-docker-compose-to-k8s-deployment/</link>
+      <pubDate>Fri, 19 Jan 2024 10:37:12 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/apitable-from-docker-compose-to-k8s-deployment/</guid>
+      <description>实在docker-compose到k8s deployment的转变</description>
+    </item>
+    
+    <item>
+      <title>nginx替换占位符</title>
+      <link>https://blog.thend03.com/posts/tech/nginx-replace-placeholder/</link>
+      <pubDate>Thu, 18 Jan 2024 09:09:37 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/nginx-replace-placeholder/</guid>
+      <description>nginx配置文件使用占位符,读取环境变量替换占位符</description>
+    </item>
+    
+    <item>
+      <title>2023年下半年总结</title>
+      <link>https://blog.thend03.com/posts/life/second-half-of-2023/</link>
+      <pubDate>Fri, 05 Jan 2024 08:29:41 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/second-half-of-2023/</guid>
+      <description>2023下半年总结</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu22.04安装wordpress</title>
+      <link>https://blog.thend03.com/posts/tech/install-wordpress-on-ubuntu22.04/</link>
+      <pubDate>Tue, 12 Dec 2023 08:43:49 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/install-wordpress-on-ubuntu22.04/</guid>
+      <description>如何在ubuntu22.04上安装wordpress</description>
+    </item>
+    
+    <item>
+      <title>goal-setting and reflection</title>
+      <link>https://blog.thend03.com/posts/blog/goal-setting-and-self-reflection/</link>
+      <pubDate>Tue, 14 Nov 2023 08:05:41 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/blog/goal-setting-and-self-reflection/</guid>
+      <description>自我反思，目标制定，积极向上</description>
+    </item>
+    
+    <item>
+      <title>变来变去的价格</title>
+      <link>https://blog.thend03.com/posts/blog/price-go-and-down/</link>
+      <pubDate>Wed, 01 Nov 2023 21:55:30 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/blog/price-go-and-down/</guid>
+      <description>双十一的购物体验相当的魔幻</description>
+    </item>
+    
+    <item>
+      <title>ssh配置</title>
+      <link>https://blog.thend03.com/posts/tech/ssh-config/</link>
+      <pubDate>Thu, 19 Oct 2023 14:40:56 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/ssh-config/</guid>
+      <description>ssh配置</description>
+    </item>
+    
+    <item>
+      <title>两京十五日</title>
+      <link>https://blog.thend03.com/posts/blog/fifteen-days-in-beijing-and-nanjing/</link>
+      <pubDate>Tue, 17 Oct 2023 21:05:26 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/blog/fifteen-days-in-beijing-and-nanjing/</guid>
+      <description>两京十五日</description>
+    </item>
+    
+    <item>
+      <title>川渝游记</title>
+      <link>https://blog.thend03.com/posts/life/sichuan-chongqing-travel-notes/</link>
+      <pubDate>Sun, 08 Oct 2023 10:46:38 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/sichuan-chongqing-travel-notes/</guid>
+      <description>在川渝地区逛吃逛吃开启咸鱼人生</description>
+    </item>
+    
+    <item>
+      <title>损失惨重的周末</title>
+      <link>https://blog.thend03.com/posts/life/disastrous-weekend/</link>
+      <pubDate>Tue, 26 Sep 2023 10:42:17 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/disastrous-weekend/</guid>
+      <description>这个周末损失太多太多了</description>
+    </item>
+    
+    <item>
+      <title>买车日记</title>
+      <link>https://blog.thend03.com/posts/life/buy-a-xp-car/</link>
+      <pubDate>Mon, 18 Sep 2023 09:11:26 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/buy-a-xp-car/</guid>
+      <description>买车全流程操作体验</description>
+    </item>
+    
+    <item>
+      <title>heap-oom</title>
+      <link>https://blog.thend03.com/posts/tech/heap-oom/</link>
+      <pubDate>Thu, 14 Sep 2023 14:59:12 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/heap-oom/</guid>
+      <description>heap oom</description>
+    </item>
+    
+    <item>
+      <title>metaspace-oom</title>
+      <link>https://blog.thend03.com/posts/tech/metaspace-oom/</link>
+      <pubDate>Thu, 07 Sep 2023 09:47:33 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/metaspace-oom/</guid>
+      <description>metaspace oom</description>
+    </item>
+    
+    <item>
+      <title>dubbo spi</title>
+      <link>https://blog.thend03.com/posts/tech/dubbo-spi/</link>
+      <pubDate>Wed, 12 Jul 2023 22:52:55 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/dubbo-spi/</guid>
+      <description>dubbo spi</description>
+    </item>
+    
+    <item>
+      <title>基于模板文件生成yml</title>
+      <link>https://blog.thend03.com/posts/tech/generate-yml-based-on-template/</link>
+      <pubDate>Tue, 11 Jul 2023 22:45:17 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/generate-yml-based-on-template/</guid>
+      <description>使用shell,基于配置文件模板生成yml文件</description>
+    </item>
+    
+    <item>
+      <title>我的博客之旅</title>
+      <link>https://blog.thend03.com/posts/blog/history-of-my-blog/</link>
+      <pubDate>Mon, 10 Jul 2023 22:07:59 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/blog/history-of-my-blog/</guid>
+      <description>我的博客变迁之旅</description>
+    </item>
+    
+    <item>
+      <title>2023年上半年</title>
+      <link>https://blog.thend03.com/posts/life/half-of-2023/</link>
+      <pubDate>Mon, 03 Jul 2023 21:07:49 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/half-of-2023/</guid>
+      <description>2023年中总结</description>
+    </item>
+    
+    <item>
+      <title>徒步武功山</title>
+      <link>https://blog.thend03.com/posts/life/hiking-wugong-mountain/</link>
+      <pubDate>Sun, 25 Jun 2023 15:02:41 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/hiking-wugong-mountain/</guid>
+      <description>端午节和宝子徒步武功山</description>
+    </item>
+    
+    <item>
+      <title>idea中开发rust</title>
+      <link>https://blog.thend03.com/posts/tech/idea%E4%B8%AD%E5%BC%80%E5%8F%91rust/</link>
+      <pubDate>Tue, 20 Jun 2023 15:48:09 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/idea%E4%B8%AD%E5%BC%80%E5%8F%91rust/</guid>
+      <description>idea中开发rust</description>
+    </item>
+    
+    <item>
+      <title>折腾chatgpt</title>
+      <link>https://blog.thend03.com/posts/tech/search-chatgpt/</link>
+      <pubDate>Mon, 22 May 2023 20:38:15 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/search-chatgpt/</guid>
+      <description>如何折腾chatgpt</description>
+    </item>
+    
+    <item>
+      <title>clickhouse删除partition</title>
+      <link>https://blog.thend03.com/posts/tech/delete-clickhouse-partition/</link>
+      <pubDate>Mon, 22 May 2023 20:28:54 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/delete-clickhouse-partition/</guid>
+      <description>删除过期partition</description>
+    </item>
+    
+    <item>
+      <title>InvalidProviderToken</title>
+      <link>https://blog.thend03.com/posts/tech/apns-push-failed/</link>
+      <pubDate>Tue, 14 Mar 2023 19:26:34 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/apns-push-failed/</guid>
+      <description>推送失败</description>
+    </item>
+    
+    <item>
+      <title>狂飙</title>
+      <link>https://blog.thend03.com/posts/blog/%E7%8B%82%E9%A3%99/</link>
+      <pubDate>Wed, 08 Feb 2023 17:30:57 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/blog/%E7%8B%82%E9%A3%99/</guid>
+      <description>&lt;p&gt;扫黑反腐的电视剧近几年，比较出彩的当属17年的《人民的名义》，火到没边了，不过今年开年，《狂飙》​带领大家新年飙了起来。
+人民的名义确实拍的挺好的，非常的伟光正，具体的剧情记不清楚了，对几个人物还有点印象。&lt;/p&gt;
+&lt;p&gt;侯亮平，男主，人生顺风顺水，正义的代表，一路高歌猛进，破获了贪腐，揪出了保护伞​，代表了人民。
+祁同伟，省公安厅副厅长，反派，对他印象最深的就是胜天半子，最终​流传下来的就是胜天半子祁同伟。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>彩云之南</title>
+      <link>https://blog.thend03.com/posts/life/%E5%BD%A9%E4%BA%91%E4%B9%8B%E5%8D%97/</link>
+      <pubDate>Thu, 02 Feb 2023 22:00:57 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/%E5%BD%A9%E4%BA%91%E4%B9%8B%E5%8D%97/</guid>
+      <description>&lt;p&gt;22年没机会去远的地方，最远是国庆去了千岛湖和宏村西递。
+趁着过年前有时间，在老婆有攻略且挺充分的情况下，一起来了场说走就走的旅行。&lt;/p&gt;
+&lt;p&gt;我这个人比较粗心，对事情没啥好的规划，做方案也粗枝大叶，做出来的方案可用的部分虽然有但不多，再次感谢能力强大的老婆，把行程规划的好好的。&lt;/p&gt;
+&lt;p&gt;整个旅程分为了7天，2天用来通勤，5天用来在云南逛玩吃逛玩吃，整体来说还是比较充实的。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023年度规划</title>
+      <link>https://blog.thend03.com/posts/life/2023%E5%B9%B4%E5%BA%A6%E8%A7%84%E5%88%92/</link>
+      <pubDate>Thu, 05 Jan 2023 22:01:57 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/2023%E5%B9%B4%E5%BA%A6%E8%A7%84%E5%88%92/</guid>
+      <description>&lt;p&gt;2022已经结束，2023已经来了，今年过年来的早，现在2023年都过去了5天，元旦短暂出去远行了一下，先快乐了一下，虽然太湖边上四下无人，非常的空旷，不过人少有人少的好处，独享太湖的moment。&lt;/p&gt;
+&lt;h2 id=&#34;工作&#34;&gt;工作&lt;/h2&gt;
+&lt;p&gt;在这边2年了，衣食住行啥的都已经非常的熟悉，顺便工资也没涨，真是一个伤心的故事。&lt;/p&gt;
+&lt;p&gt;22年下半年跑路尝试失败，先看看年底晋升的结果，希望可以晋升涨一波吧。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2022年终总结</title>
+      <link>https://blog.thend03.com/posts/life/2022%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Wed, 04 Jan 2023 22:20:57 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/2022%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
+      <description>&lt;p&gt;2022年终总结&lt;/p&gt;
+&lt;p&gt;波云诡谲的2022已经结束，现在已经2023年了，回顾下这个2022，有开心，有迷茫，也有快乐。&lt;/p&gt;
+&lt;p&gt;简单回顾下这奇异的2022年。&lt;/p&gt;
+&lt;h2 id=&#34;疫情&#34;&gt;疫情&lt;/h2&gt;
+&lt;p&gt;贯穿2022年一整年的主旋律，从年初的严防死守，到年末的应阳尽阳，生活从一个快车道切到了另一个快车道。&lt;/p&gt;
+&lt;p&gt;2022年年初，还是管的挺严的，尤记得2月13号苏州疫情，然后跑回上海，被大数据精准识别为黄码，那个时候黄码仍如洪水猛兽，被封在上海2周，那是人生中第一次因为疫情隔离。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Redis scan命令学习</title>
+      <link>https://blog.thend03.com/posts/tech/tech1/</link>
+      <pubDate>Wed, 30 Nov 2022 15:55:23 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/tech1/</guid>
+      <description>scan命令详解</description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://blog.thend03.com/posts/tech/tech/</link>
+      <pubDate>Thu, 05 May 2022 00:17:58 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/tech/</guid>
+      <description>科技代码</description>
+    </item>
+    
+    <item>
+      <title>🤝友链</title>
+      <link>https://blog.thend03.com/links/</link>
+      <pubDate>Sat, 06 Nov 2021 15:15:53 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/links/</guid>
+      <description>&lt;div class=&#34;friend&#34;&gt;
+&lt;a target=&#34;_blank&#34; href=https://blog.thend03.com/ title=thend03&amp;#39;s&amp;#32;Blog class=&#34;friendurl&#34;&gt;
+  &lt;div class=&#34;frienddiv&#34;&gt;
+    &lt;div class=&#34;frienddivleft&#34;&gt;
+      &lt;img class=&#34;myfriend&#34; src=https://blog.thend03.com/img/logo.jpg /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;frienddivright&#34;&gt;
+      &lt;div class=&#34;friendname&#34;&gt;thend03&amp;#39;s Blog&lt;/div&gt;
+      &lt;div class=&#34;friendinfo&#34;&gt;一个记录技术、阅读、生活的博客&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;div style=&#34;font-size: 20px;&#34; class=&#34;youlian&#34;&gt;👉友链格式&lt;/div&gt;
+&lt;div style=&#34;font-size: 16px;&#34;&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;名称 &lt;/td&gt;
+          &lt;td&gt;thend03&amp;rsquo;s Blog&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;网址 &lt;/td&gt;
+          &lt;td&gt;
+
+&lt;a href=&#34;https://blog.thend03.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;color:#E16723&#34;;&gt;https://blog.thend03.com&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;图标 &lt;/td&gt;
+          &lt;td&gt;
+
+&lt;a href=&#34;https://blog.thend03.com/img/Q.gif&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;color:#E16723&#34;;&gt;https://blog.thend03.com/img/Q.gif&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;描述 &lt;/td&gt;
+          &lt;td&gt;一个记录技术、阅读、生活的博客&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;div style=&#34;font-size: 20px;&#34;&gt;👉友链申请要求&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;秉承互换友链原则、文章定期更新&lt;!-- 、网站在工信部备案 --&gt;、不能有太多广告、个人描述字数控制在15字内&lt;/p&gt;&lt;/blockquote&gt;
+&lt;br/&gt;</description>
+    </item>
+    
+    <item>
+      <title>🙋🏻‍♂️关于</title>
+      <link>https://blog.thend03.com/about/</link>
+      <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/about/</guid>
+      <description>&lt;p style=&#34;font-size: 25px;&#34;&gt;关于我&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;英文名&lt;/strong&gt;: since&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;职业&lt;/strong&gt;: 程序员&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;运动&lt;/strong&gt;: 徒步、爬山、羽毛球&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>站在海边看远方</title>
+      <link>https://blog.thend03.com/posts/see-the-sea-with-her/</link>
+      <pubDate>Thu, 20 Aug 2020 22:16:54 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/see-the-sea-with-her/</guid>
+      <description>&lt;h2 id=&#34;站在海边看远方&#34;&gt;站在海边看远方&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;为了配合菲宝的毕业旅行，我贡献了宝贵的年假。&lt;/p&gt;
+&lt;p&gt;为了安稳的出去玩耍，在旅游的前一周加班加点的工作，没想到最后还是免不了要处理一下工作，社畜艰难啊！&lt;/p&gt;
+&lt;p&gt;我们前期在西北和西南纠结了好久，最终选了广西，完美结合我看山水和菲宝看海的意愿。&lt;/p&gt;
+&lt;p&gt;具体行程是7月12日&amp;mdash;7月18日&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;日程计划如下:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Day1 南京——桂林&lt;/li&gt;
+&lt;li&gt;Day2 龙脊梯田&lt;/li&gt;
+&lt;li&gt;Day3  阳朔&lt;/li&gt;
+&lt;li&gt;Day4 桂林——北海&lt;/li&gt;
+&lt;li&gt;Day5 北海——涠洲岛&lt;/li&gt;
+&lt;li&gt;Day6 涠洲岛——北海&lt;/li&gt;
+&lt;li&gt;Day7 北海——南宁——南京&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;day1-南京-桂林&#34;&gt;Day1 南京-桂林&lt;/h2&gt;
+&lt;p&gt;11号菲宝抵达南京，结束为期十天的假（家）期，一起准备下出行物资，行李箱满满当当。&lt;/p&gt;</description>
+    </item>
+    
+    
+    
   </channel>
 </rss>
