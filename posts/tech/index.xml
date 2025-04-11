@@ -5,8 +5,7 @@
     <link>https://blog.thend03.com/posts/tech/</link>
     <description>Recent content in 👨🏻‍💻 技术 on 站在海边看远方</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    <lastBuildDate>Thu, 27 Feb 2025 15:52:52 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language><atom:link href="https://blog.thend03.com/posts/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java实现生产者消费者模型</title>
       <link>https://blog.thend03.com/posts/tech/java-producer-consumer-model/</link>
