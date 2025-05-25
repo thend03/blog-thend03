@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xiaobot on 站在海边看远方</title>
+    <link>https://blog.thend03.com/tags/xiaobot/</link>
+    <description>Recent content in Xiaobot on 站在海边看远方</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 14 Aug 2024 08:42:17 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/xiaobot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>实现小报童分销站的自动化</title>
+      <link>https://blog.thend03.com/posts/blog/automatic-for-xiaobot-nav/</link>
+      <pubDate>Wed, 14 Aug 2024 08:42:17 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/blog/automatic-for-xiaobot-nav/</guid>
+      <description>实现小报童分销站的自动化</description>
+    </item>
+    
+    <item>
+      <title>如何做一个小报童分销导航</title>
+      <link>https://blog.thend03.com/posts/blog/how-to-make-a-xiaobot-nav/</link>
+      <pubDate>Sun, 21 Jul 2024 13:08:59 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/blog/how-to-make-a-xiaobot-nav/</guid>
+      <description>从0到1做1个小报童分销导航</description>
+    </item>
+    
+  </channel>
+</rss>
