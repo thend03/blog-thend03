@@ -5,61 +5,6 @@
     <link>https://blog.thend03.com/categories/</link>
     <description>Recent content in Categories on 站在海边看远方</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    <lastBuildDate>Fri, 26 Jul 2024 17:07:58 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Java</title>
-      <link>https://blog.thend03.com/categories/java/</link>
-      <pubDate>Fri, 26 Jul 2024 17:07:58 +0800</pubDate>
-      
-      <guid>https://blog.thend03.com/categories/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Website</title>
-      <link>https://blog.thend03.com/categories/website/</link>
-      <pubDate>Sun, 21 Jul 2024 13:08:59 +0800</pubDate>
-      
-      <guid>https://blog.thend03.com/categories/website/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://blog.thend03.com/categories/linux/</link>
-      <pubDate>Wed, 26 Jun 2024 09:10:25 +0800</pubDate>
-      
-      <guid>https://blog.thend03.com/categories/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2024</title>
-      <link>https://blog.thend03.com/categories/2024/</link>
-      <pubDate>Tue, 16 Apr 2024 15:02:42 +0800</pubDate>
-      
-      <guid>https://blog.thend03.com/categories/2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Manjaro</title>
-      <link>https://blog.thend03.com/categories/manjaro/</link>
-      <pubDate>Tue, 06 Feb 2024 15:36:27 +0800</pubDate>
-      
-      <guid>https://blog.thend03.com/categories/manjaro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Redis</title>
-      <link>https://blog.thend03.com/categories/redis/</link>
-      <pubDate>Wed, 30 Nov 2022 15:55:23 +0800</pubDate>
-      
-      <guid>https://blog.thend03.com/categories/redis/</guid>
-      <description></description>
-    </item>
-    
+    <language>zh</language><atom:link href="https://blog.thend03.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
