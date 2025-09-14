@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>👨🏻‍💻 技术 on 站在海边看远方</title>
+    <link>https://blog.thend03.com/posts/tech/</link>
+    <description>Recent content in 👨🏻‍💻 技术 on 站在海边看远方</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language><atom:link href="https://blog.thend03.com/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java实现生产者消费者模型</title>
+      <link>https://blog.thend03.com/posts/tech/java-producer-consumer-model/</link>
+      <pubDate>Thu, 27 Feb 2025 15:52:52 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/java-producer-consumer-model/</guid>
+      <description>&lt;h2 id=&#34;案例&#34;&gt;案例&lt;/h2&gt;
+&lt;p&gt;Java并发的时候，看到了一个关于生产者消费者的案例&lt;/p&gt;
+&lt;p&gt;一个producer类和一个consumer类，实现了Runnable接口，作为线程执行的任务&lt;/p&gt;
+&lt;p&gt;一个Queue类，实现了queue的put()和take操作，模拟了生产和消费2个动作&lt;/p&gt;
+&lt;p&gt;实现方式使用了ReentrantLock+Condition&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>如何查看jvm运行时生成的动态代理class文件</title>
+      <link>https://blog.thend03.com/posts/tech/view-jvm-dynamic-class-detail/</link>
+      <pubDate>Wed, 11 Sep 2024 15:40:13 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/view-jvm-dynamic-class-detail/</guid>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;最近看dubbo的时候，看到了讲spi的部分，其中提到了@Adaptive注解生成了代理类&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://cdn.jsdelivr.net/gh/thend03/mdPic/picGo/202409111608009.png&#34; alt=&#34;image-20240911160843943&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;我后面去debug了一下，打了断点，发现在运行时，只是显示了class的名称，由于&lt;strong&gt;RegistryFactory$Adaptive&lt;/strong&gt; 是动态生成的，所以没有class文件结构可以看，而文章里贴了class文件。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>如何解决java.util.ConcurrentModificationException问题</title>
+      <link>https://blog.thend03.com/posts/tech/how-to-fix-java.util.concurrentmodificationexception/</link>
+      <pubDate>Fri, 26 Jul 2024 17:07:58 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/how-to-fix-java.util.concurrentmodificationexception/</guid>
+      <description>如何解决java.util.ConcurrentModificationException问题</description>
+    </item>
+    
+    <item>
+      <title>grep使用不当引起的惨案</title>
+      <link>https://blog.thend03.com/posts/tech/incorrect-use-of-grep/</link>
+      <pubDate>Wed, 26 Jun 2024 09:10:25 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/incorrect-use-of-grep/</guid>
+      <description>grep使用不当引起的惨案</description>
+    </item>
+    
+    <item>
+      <title>manjaro环境配置</title>
+      <link>https://blog.thend03.com/posts/tech/manjaro-env-config/</link>
+      <pubDate>Tue, 06 Feb 2024 15:36:27 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/manjaro-env-config/</guid>
+      <description>manjaro环境配置</description>
+    </item>
+    
+    <item>
+      <title>笔记本安装manjaro&#43;windows双系统</title>
+      <link>https://blog.thend03.com/posts/tech/dual-system-installation-manjaro-and-windows/</link>
+      <pubDate>Tue, 06 Feb 2024 13:07:38 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/dual-system-installation-manjaro-and-windows/</guid>
+      <description>如何在笔记本电脑上安装双系统</description>
+    </item>
+    
+    <item>
+      <title>使用sentry监控apitable</title>
+      <link>https://blog.thend03.com/posts/tech/use-sentry-to-monitor-apitable/</link>
+      <pubDate>Fri, 19 Jan 2024 14:37:22 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/use-sentry-to-monitor-apitable/</guid>
+      <description>使用sentry监控apitable</description>
+    </item>
+    
+    <item>
+      <title>使用netty-client建立websocket连接</title>
+      <link>https://blog.thend03.com/posts/tech/connect-websocket-by-netty-client/</link>
+      <pubDate>Fri, 19 Jan 2024 13:09:59 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/connect-websocket-by-netty-client/</guid>
+      <description>使用netty-client建立websocket连接</description>
+    </item>
+    
+    <item>
+      <title>apitable从docker compose到k8s deployment的转变</title>
+      <link>https://blog.thend03.com/posts/tech/apitable-from-docker-compose-to-k8s-deployment/</link>
+      <pubDate>Fri, 19 Jan 2024 10:37:12 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/apitable-from-docker-compose-to-k8s-deployment/</guid>
+      <description>实在docker-compose到k8s deployment的转变</description>
+    </item>
+    
+    <item>
+      <title>nginx替换占位符</title>
+      <link>https://blog.thend03.com/posts/tech/nginx-replace-placeholder/</link>
+      <pubDate>Thu, 18 Jan 2024 09:09:37 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/nginx-replace-placeholder/</guid>
+      <description>nginx配置文件使用占位符,读取环境变量替换占位符</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu22.04安装wordpress</title>
+      <link>https://blog.thend03.com/posts/tech/install-wordpress-on-ubuntu22.04/</link>
+      <pubDate>Tue, 12 Dec 2023 08:43:49 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/install-wordpress-on-ubuntu22.04/</guid>
+      <description>如何在ubuntu22.04上安装wordpress</description>
+    </item>
+    
+    <item>
+      <title>ssh配置</title>
+      <link>https://blog.thend03.com/posts/tech/ssh-config/</link>
+      <pubDate>Thu, 19 Oct 2023 14:40:56 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/ssh-config/</guid>
+      <description>ssh配置</description>
+    </item>
+    
+    <item>
+      <title>heap-oom</title>
+      <link>https://blog.thend03.com/posts/tech/heap-oom/</link>
+      <pubDate>Thu, 14 Sep 2023 14:59:12 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/heap-oom/</guid>
+      <description>heap oom</description>
+    </item>
+    
+    <item>
+      <title>metaspace-oom</title>
+      <link>https://blog.thend03.com/posts/tech/metaspace-oom/</link>
+      <pubDate>Thu, 07 Sep 2023 09:47:33 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/metaspace-oom/</guid>
+      <description>metaspace oom</description>
+    </item>
+    
+    <item>
+      <title>dubbo spi</title>
+      <link>https://blog.thend03.com/posts/tech/dubbo-spi/</link>
+      <pubDate>Wed, 12 Jul 2023 22:52:55 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/dubbo-spi/</guid>
+      <description>dubbo spi</description>
+    </item>
+    
+    <item>
+      <title>基于模板文件生成yml</title>
+      <link>https://blog.thend03.com/posts/tech/generate-yml-based-on-template/</link>
+      <pubDate>Tue, 11 Jul 2023 22:45:17 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/generate-yml-based-on-template/</guid>
+      <description>使用shell,基于配置文件模板生成yml文件</description>
+    </item>
+    
+    <item>
+      <title>idea中开发rust</title>
+      <link>https://blog.thend03.com/posts/tech/idea%E4%B8%AD%E5%BC%80%E5%8F%91rust/</link>
+      <pubDate>Tue, 20 Jun 2023 15:48:09 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/idea%E4%B8%AD%E5%BC%80%E5%8F%91rust/</guid>
+      <description>idea中开发rust</description>
+    </item>
+    
+    <item>
+      <title>折腾chatgpt</title>
+      <link>https://blog.thend03.com/posts/tech/search-chatgpt/</link>
+      <pubDate>Mon, 22 May 2023 20:38:15 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/search-chatgpt/</guid>
+      <description>如何折腾chatgpt</description>
+    </item>
+    
+    <item>
+      <title>clickhouse删除partition</title>
+      <link>https://blog.thend03.com/posts/tech/delete-clickhouse-partition/</link>
+      <pubDate>Mon, 22 May 2023 20:28:54 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/delete-clickhouse-partition/</guid>
+      <description>删除过期partition</description>
+    </item>
+    
+    <item>
+      <title>InvalidProviderToken</title>
+      <link>https://blog.thend03.com/posts/tech/apns-push-failed/</link>
+      <pubDate>Tue, 14 Mar 2023 19:26:34 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/apns-push-failed/</guid>
+      <description>推送失败</description>
+    </item>
+    
+    <item>
+      <title>Redis scan命令学习</title>
+      <link>https://blog.thend03.com/posts/tech/tech1/</link>
+      <pubDate>Wed, 30 Nov 2022 15:55:23 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/tech1/</guid>
+      <description>scan命令详解</description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://blog.thend03.com/posts/tech/tech/</link>
+      <pubDate>Thu, 05 May 2022 00:17:58 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/tech/tech/</guid>
+      <description>科技代码</description>
+    </item>
+    
+  </channel>
+</rss>
