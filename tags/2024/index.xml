@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2024 on 站在海边看远方</title>
+    <link>https://blog.thend03.com/tags/2024/</link>
+    <description>Recent content in 2024 on 站在海边看远方</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 17 Jun 2024 14:25:22 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024二季度总结</title>
+      <link>https://blog.thend03.com/posts/life/2024-q2-summary/</link>
+      <pubDate>Mon, 17 Jun 2024 14:25:22 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/2024-q2-summary/</guid>
+      <description>2024二季度总结</description>
+    </item>
+    
+    <item>
+      <title>2024年一季度总结</title>
+      <link>https://blog.thend03.com/posts/life/2024-q1-summary/</link>
+      <pubDate>Tue, 16 Apr 2024 15:02:42 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/2024-q1-summary/</guid>
+      <description>2024年一季度总结</description>
+    </item>
+    
+  </channel>
+</rss>
