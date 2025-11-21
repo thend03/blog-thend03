@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Life on 站在海边看远方</title>
+    <link>https://blog.thend03.com/tags/life/</link>
+    <description>Recent content in Life on 站在海边看远方</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 29 Aug 2024 20:45:22 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024三季度总结</title>
+      <link>https://blog.thend03.com/posts/life/2024-q3-summary/</link>
+      <pubDate>Thu, 29 Aug 2024 20:45:22 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/2024-q3-summary/</guid>
+      <description>2024三季度总结</description>
+    </item>
+    
+    <item>
+      <title>尹山湖生活不那么美好的回忆</title>
+      <link>https://blog.thend03.com/posts/life/yin-shanhu-not-good-memories/</link>
+      <pubDate>Wed, 28 Aug 2024 07:11:36 +0800</pubDate>
+      
+      <guid>https://blog.thend03.com/posts/life/yin-shanhu-not-good-memories/</guid>
+      <description>尹山湖生活不那么美好的回忆</description>
+    </item>
+    
+  </channel>
+</rss>
