@@ -6,15 +6,16 @@
     <description>Recent content in Yq on 站在海边看远方</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
+    <managingEditor>whenevertobefc@outlook.com (since)</managingEditor>
+    <webMaster>whenevertobefc@outlook.com (since)</webMaster>
     <lastBuildDate>Tue, 11 Jul 2023 22:45:17 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/yq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>基于模板文件生成yml</title>
       <link>https://blog.thend03.com/posts/tech/generate-yml-based-on-template/</link>
       <pubDate>Tue, 11 Jul 2023 22:45:17 +0800</pubDate>
-      
+      <author>whenevertobefc@outlook.com (since)</author>
       <guid>https://blog.thend03.com/posts/tech/generate-yml-based-on-template/</guid>
       <description>使用shell,基于配置文件模板生成yml文件</description>
     </item>
-    
   </channel>
 </rss>

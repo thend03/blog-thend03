@@ -6,15 +6,16 @@
     <description>Recent content in K8s-Deployment on 站在海边看远方</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
+    <managingEditor>whenevertobefc@outlook.com (since)</managingEditor>
+    <webMaster>whenevertobefc@outlook.com (since)</webMaster>
     <lastBuildDate>Fri, 19 Jan 2024 10:37:12 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/k8s-deployment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>apitable从docker compose到k8s deployment的转变</title>
       <link>https://blog.thend03.com/posts/tech/apitable-from-docker-compose-to-k8s-deployment/</link>
       <pubDate>Fri, 19 Jan 2024 10:37:12 +0800</pubDate>
-      
+      <author>whenevertobefc@outlook.com (since)</author>
       <guid>https://blog.thend03.com/posts/tech/apitable-from-docker-compose-to-k8s-deployment/</guid>
       <description>实在docker-compose到k8s deployment的转变</description>
     </item>
-    
   </channel>
 </rss>

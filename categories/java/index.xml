@@ -6,15 +6,16 @@
     <description>Recent content in Java on 站在海边看远方</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
+    <managingEditor>whenevertobefc@outlook.com (since)</managingEditor>
+    <webMaster>whenevertobefc@outlook.com (since)</webMaster>
     <lastBuildDate>Fri, 26 Jul 2024 17:07:58 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/categories/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何解决java.util.ConcurrentModificationException问题</title>
       <link>https://blog.thend03.com/posts/tech/how-to-fix-java.util.concurrentmodificationexception/</link>
       <pubDate>Fri, 26 Jul 2024 17:07:58 +0800</pubDate>
-      
+      <author>whenevertobefc@outlook.com (since)</author>
       <guid>https://blog.thend03.com/posts/tech/how-to-fix-java.util.concurrentmodificationexception/</guid>
       <description>如何解决java.util.ConcurrentModificationException问题</description>
     </item>
-    
   </channel>
 </rss>

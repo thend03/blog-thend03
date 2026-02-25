@@ -6,15 +6,16 @@
     <description>Recent content in ’Github-Actions on 站在海边看远方</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
+    <managingEditor>whenevertobefc@outlook.com (since)</managingEditor>
+    <webMaster>whenevertobefc@outlook.com (since)</webMaster>
     <lastBuildDate>Wed, 14 Aug 2024 08:42:17 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/github-actions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>实现小报童分销站的自动化</title>
       <link>https://blog.thend03.com/posts/blog/automatic-for-xiaobot-nav/</link>
       <pubDate>Wed, 14 Aug 2024 08:42:17 +0800</pubDate>
-      
+      <author>whenevertobefc@outlook.com (since)</author>
       <guid>https://blog.thend03.com/posts/blog/automatic-for-xiaobot-nav/</guid>
       <description>实现小报童分销站的自动化</description>
     </item>
-    
   </channel>
 </rss>

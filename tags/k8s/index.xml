@@ -6,15 +6,16 @@
     <description>Recent content in K8s on 站在海边看远方</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
+    <managingEditor>whenevertobefc@outlook.com (since)</managingEditor>
+    <webMaster>whenevertobefc@outlook.com (since)</webMaster>
     <lastBuildDate>Thu, 18 Jan 2024 09:09:37 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>nginx替换占位符</title>
       <link>https://blog.thend03.com/posts/tech/nginx-replace-placeholder/</link>
       <pubDate>Thu, 18 Jan 2024 09:09:37 +0800</pubDate>
-      
+      <author>whenevertobefc@outlook.com (since)</author>
       <guid>https://blog.thend03.com/posts/tech/nginx-replace-placeholder/</guid>
       <description>nginx配置文件使用占位符,读取环境变量替换占位符</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,15 +6,16 @@
     <description>Recent content in Heap on 站在海边看远方</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
+    <managingEditor>whenevertobefc@outlook.com (since)</managingEditor>
+    <webMaster>whenevertobefc@outlook.com (since)</webMaster>
     <lastBuildDate>Thu, 14 Sep 2023 14:59:12 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/heap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>heap-oom</title>
       <link>https://blog.thend03.com/posts/tech/heap-oom/</link>
       <pubDate>Thu, 14 Sep 2023 14:59:12 +0800</pubDate>
-      
+      <author>whenevertobefc@outlook.com (since)</author>
       <guid>https://blog.thend03.com/posts/tech/heap-oom/</guid>
       <description>heap oom</description>
     </item>
-    
   </channel>
 </rss>

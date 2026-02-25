@@ -6,15 +6,16 @@
     <description>Recent content in Redis on 站在海边看远方</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
+    <managingEditor>whenevertobefc@outlook.com (since)</managingEditor>
+    <webMaster>whenevertobefc@outlook.com (since)</webMaster>
     <lastBuildDate>Wed, 30 Nov 2022 15:55:23 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/redis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Redis scan命令学习</title>
       <link>https://blog.thend03.com/posts/tech/tech1/</link>
       <pubDate>Wed, 30 Nov 2022 15:55:23 +0800</pubDate>
-      
+      <author>whenevertobefc@outlook.com (since)</author>
       <guid>https://blog.thend03.com/posts/tech/tech1/</guid>
       <description>scan命令详解</description>
     </item>
-    
   </channel>
 </rss>

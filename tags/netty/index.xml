@@ -6,15 +6,16 @@
     <description>Recent content in Netty on 站在海边看远方</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
+    <managingEditor>whenevertobefc@outlook.com (since)</managingEditor>
+    <webMaster>whenevertobefc@outlook.com (since)</webMaster>
     <lastBuildDate>Fri, 19 Jan 2024 13:09:59 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/tags/netty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用netty-client建立websocket连接</title>
       <link>https://blog.thend03.com/posts/tech/connect-websocket-by-netty-client/</link>
       <pubDate>Fri, 19 Jan 2024 13:09:59 +0800</pubDate>
-      
+      <author>whenevertobefc@outlook.com (since)</author>
       <guid>https://blog.thend03.com/posts/tech/connect-websocket-by-netty-client/</guid>
       <description>使用netty-client建立websocket连接</description>
     </item>
-    
   </channel>
 </rss>
