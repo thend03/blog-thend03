@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on 站在海边看远方</title>
+    <title>Categories on Lmy</title>
     <link>https://blog.thend03.com/categories/</link>
-    <description>Recent content in Categories on 站在海边看远方</description>
+    <description>Recent content in Categories on Lmy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>whenevertobefc@outlook.com (since)</managingEditor>
-    <webMaster>whenevertobefc@outlook.com (since)</webMaster>
+    <managingEditor>whenevertobefc@outlook.com (Lmy)</managingEditor>
+    <webMaster>whenevertobefc@outlook.com (Lmy)</webMaster>
     <lastBuildDate>Fri, 26 Jul 2024 17:07:58 +0800</lastBuildDate><atom:link href="https://blog.thend03.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java</title>
       <link>https://blog.thend03.com/categories/java/</link>
       <pubDate>Fri, 26 Jul 2024 17:07:58 +0800</pubDate>
-      <author>whenevertobefc@outlook.com (since)</author>
+      <author>whenevertobefc@outlook.com (Lmy)</author>
       <guid>https://blog.thend03.com/categories/java/</guid>
       <description></description>
     </item>
@@ -21,7 +21,7 @@
       <title>Website</title>
       <link>https://blog.thend03.com/categories/website/</link>
       <pubDate>Sun, 21 Jul 2024 13:08:59 +0800</pubDate>
-      <author>whenevertobefc@outlook.com (since)</author>
+      <author>whenevertobefc@outlook.com (Lmy)</author>
       <guid>https://blog.thend03.com/categories/website/</guid>
       <description></description>
     </item>
@@ -29,7 +29,7 @@
       <title>Linux</title>
       <link>https://blog.thend03.com/categories/linux/</link>
       <pubDate>Wed, 26 Jun 2024 09:10:25 +0800</pubDate>
-      <author>whenevertobefc@outlook.com (since)</author>
+      <author>whenevertobefc@outlook.com (Lmy)</author>
       <guid>https://blog.thend03.com/categories/linux/</guid>
       <description></description>
     </item>
@@ -37,7 +37,7 @@
       <title>Manjaro</title>
       <link>https://blog.thend03.com/categories/manjaro/</link>
       <pubDate>Tue, 06 Feb 2024 15:36:27 +0800</pubDate>
-      <author>whenevertobefc@outlook.com (since)</author>
+      <author>whenevertobefc@outlook.com (Lmy)</author>
       <guid>https://blog.thend03.com/categories/manjaro/</guid>
       <description></description>
     </item>
@@ -45,7 +45,7 @@
       <title>Redis</title>
       <link>https://blog.thend03.com/categories/redis/</link>
       <pubDate>Wed, 30 Nov 2022 15:55:23 +0800</pubDate>
-      <author>whenevertobefc@outlook.com (since)</author>
+      <author>whenevertobefc@outlook.com (Lmy)</author>
       <guid>https://blog.thend03.com/categories/redis/</guid>
       <description></description>
     </item>
